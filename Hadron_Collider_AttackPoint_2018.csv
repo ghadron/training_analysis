@@ -1,0 +1,642 @@
+"date","hour","activity","workout","keywords","time","i0","i1","i2","i3","i4","i5","distance(km)","climb(m)","intensity","t-intensity","ahr","mhr","controls","spiked","rhr","sleep","weight(kg)","injured","sick","restday","shoes","route","description","private note"
+"2018-01-01","10","Trail Run","long","","02:04:08","","","","02:04:08","","","18.3","325.0","3.0","","159","182","","","","7.00","","","","","Saucony Xodus","","Did we run? Yes we did. Did we see waterfalls? Yes we did. Did we eat waffles? Yes we did. ",""
+"2018-01-03","9","Strength","warm up/down","","00:17:32","","00:17:32","","","","","","","1.0","","111","134","","","","8.50","","","","1","","","2 minute plank with leg raises
+20 lunges each leg
+20 reactive leg raises
+15 pistol squats
+20 Reactive elastic hip extension each leg
+15 ball bridge",""
+"2018-01-04","11","Strength","warm up/down","","00:17:13","","00:17:13","","","","","","","1.0","","106","133","","","","8.00","","","","","","","2 minute plank with leg raises
+20 lunges each leg
+20 reactive leg raises
+15 pistol squats
+20 Reactive elastic hip extension each leg
+15 ball bridge",""
+"2018-01-04","","Trail Run","","","00:28:09","","","","00:28:09","","","5.2","40.0","3.0","","","","","","","","","","","","VJ Sport Bold","","Took it easy with the foot thing and I think it helps to be in a different shoe. ",""
+"2018-01-05","16","Trail Run","","","00:57:45","","","","00:57:45","","","9.8","120.0","3.0","","147","178","","","","7.50","","","","1","VJ Sport Bold","","Really bundled up for this cold run. ",""
+"2018-01-06","8","Trail Run","tempo","","01:03:40","","","","","01:03:40","","11.7","185.0","4.0","","158","187","","","","7.50","","","","","VJ Sport Bold","","Shorted SMT at closer to a tempo pace with trav sending DD and I off on temp bursts. ",""
+"2018-01-07","16","Trail Run","","Snowshoe","00:35:24","","","","00:35:24","","","3.2","50.0","3.0","","129","154","","","","8.00","","","","","Saucony Xodus","","Practicing with snowshoes but cut it short be foot pain came back which sucked. ",""
+"2018-01-08","16","Forest Run","","Snowshoe","01:01:25","","","01:01:25","","","","5.5","130.0","2.0","","130","156","","","","7.00","","","","1","Mizuno Wave Rider","","Tryed again in snowshoes with difference shoes and that worked a lot better. ",""
+"2018-01-08","21","Strength","warm up/down","","00:09:59","","00:09:59","","","","","","","1.0","","96","122","","","","","","","","1","","","2 minute plank with leg raises
+20 lunges each leg
+20 reactive leg raises
+20 Reactive elastic hip extension each leg",""
+"2018-01-09","18","Trail Run","warm up/down","","00:19:16","","","00:19:16","","","","2.6","45.0","2.0","","133","166","","","","6.50","","","","","VJ Sport Bold","","Warm to intervals",""
+"2018-01-09","18","Trail Run","intervals","","00:31:35","","","","","00:31:35","","5.5","30.0","4.0","","152","178","","","","","","","","","VJ Sport Bold","","About 900m intervals with about 1:30 minute rest. Repeated 6 times. ",""
+"2018-01-09","18","Trail Run","warm up/down","","00:09:09","","","00:09:09","","","","1.3","","2.0","","123","181","","","","","","","","","VJ Sport Bold","","",""
+"2018-01-10","","Trail Run","tempo","","00:36:29","","","","","00:36:29","","8.1","80.0","4.0","","142","182","","","","6.50","","","","","VJ Sport Bold","","Quick temp run before gong to get new shoes to replace the Xodus which were causing me pain. ",""
+"2018-01-11","18","Trail Run","","","00:32:50","","","","00:32:50","","","5.3","60.0","3.0","","150","166","","","","6.50","","","","","Saucony Peregrine","","4 times about 1.3 km loop. At the end of every loop did some matching of symbols to terrain. This was also my first run with contacts which worked marvelously. ",""
+"2018-01-11","19","Map Study","","","01:15:00","01:15:00","","","","","","","","0.0","","","","","","","","","","","","","","Really good lecture from Meghan about ways to improve mental training. ",""
+"2018-01-13","11","Orienteering","race","","02:58:49","","","","02:58:49","","","18.6","285.0","3.0","","141","175","","","","6.50","","","","","Saucony Peregrine","","Had a really good first hour but then be messed up a control and had to slow down to find it which really cooled us down. About half an hour later our hands were both too cold to hold ours maps well.",""
+"2018-01-15","16","Trail Run","","","00:58:03","","","","00:58:03","","","9.8","95.0","3.0","","149","171","","","","6.50","","","","1","Saucony Peregrine","","Nice steady run after this weekend. ",""
+"2018-01-16","18","Trail Run","warm up/down","","00:17:54","","","00:17:54","","","","2.8","40.0","2.0","","132","161","","","","6.50","","","","","Saucony Peregrine","","Warm up to intervals ",""
+"2018-01-16","18","Trail Run","intervals","","00:30:01","","","","","00:30:01","","4.9","85.0","4.0","","138","168","","","","","","","","","Saucony Peregrine","","Two 400 m loops, one one my own and one with DD, then rest well DD goes it alone. Repeated 6 times. ",""
+"2018-01-16","18","Trail Run","warm up/down","","00:13:45","","","00:13:45","","","","1.8","20.0","2.0","","138","167","","","","","","","","","Saucony Peregrine","","",""
+"2018-01-17","22","Strength","warm up/down","","00:14:45","","00:14:45","","","","","","","1.0","","116","137","","","","6.50","","","","","","","2 minute plank with leg raises
+20 lunges each leg
+20 reactive leg raises
+15 pistol squats
+20 Reactive elastic hip extension each leg
+15 ball bridge",""
+"2018-01-18","19","Orienteering","race","","00:32:19","","","","","00:32:19","","6.2","25.0","4.0","","154","171","","","","6.50","","","","","Saucony Peregrine","","First X league of winter season! Race went well, fast and clean. ",""
+"2018-01-19","16","Forest Run","","","01:06:48","","","","01:06:48","","","7.6","80.0","3.0","","149","169","","","","6.50","","","","1","Saucony Peregrine","","Standard forest run with warm up and cool down going to and from the forest. ",""
+"2018-01-20","20","Trail Run","long","","01:47:28","","","","01:47:28","","","17.6","235.0","3.0","","162","193","","","","7.50","","","","","Saucony Peregrine","","Through the run did multiple accelerations. First hour was with Trav who peeled off well DD and I keep going. ",""
+"2018-01-21","10","Orienteering","race","","00:42:12","","","","","00:42:12","","12.553","45.0","4.0","","168","195","","","","8.00","","","","","Saucony Peregrine","","Good race, kept it clean and pushed hard.",""
+"2018-01-22","16","Trail Run","","","01:10:52","","","","01:10:52","","","11.0","100.0","3.0","","140","156","","","","7.50","","","","1","Saucony Peregrine","","Tough run with the warm weather melting the snow on the trails.",""
+"2018-01-22","22","Strength","warm up/down","","00:15:06","","00:15:06","","","","","","","1.0","","101","119","","","","","","","","1","","","5 by 25
+2.5 minute plank with leg lifts 
+25 lunges each leg 
+25 Reactive elastic hip extension each leg
+25 pistol squats 
+25 reactive leg raises",""
+"2018-01-23","18","Trail Run","warm up/down","","00:23:11","","","00:23:11","","","","3.3","","2.0","","134","165","","","","6.50","","","","","VJ Sport Bold","","Warm to TNT",""
+"2018-01-23","18","Trail Run","hills","","00:30:23","","","","","00:30:23","","5.7","115.0","4.0","","151","172","","","","","","","","","VJ Sport Bold","","4 repeats of three hill loops. Got a cramp on 2 and 3 so had trouble going as fast on those. ",""
+"2018-01-23","18","Trail Run","warm up/down","","00:13:19","","","00:13:19","","","","1.8","25.0","2.0","","143","165","","","","","","","","","VJ Sport Bold","","Last TNT with DD. Have fun in Denmark!",""
+"2018-01-24","16","Trail Run","warm up/down","","00:16:49","","","","00:16:49","","","2.1","20.0","3.0","","119","136","","","","7.00","","","","","Saucony Peregrine","","",""
+"2018-01-24","16","Road Run","hills","","00:30:39","","","","00:30:39","","","5.8","150.0","3.0","","135","156","","","","","","","","","Saucony Peregrine","","2 repeats of 5 time up hill for about 75 seconds. Decided to keep overall workout a bit shorter because of exams tomorrow. ",""
+"2018-01-24","16","Trail Run","warm up/down","","00:07:10","","","","00:07:10","","","1.2","15.0","3.0","","138","156","","","","","","","","","Saucony Peregrine","","",""
+"2018-01-25","","Trail Run","","","00:31:33","","","","00:31:33","","","4.0","25.0","3.0","","134","175","","","","6.50","","","","","Saucony Peregrine","","10 repeats of about 200m hill sprints with focus on form. After 6 pof there was a core workout. ",""
+"2018-01-25","19","Map Study","","","01:00:00","01:00:00","","","","","","","","0.0","","","","","","","","","","","","","","Lecture on maps and mapping symbols. ",""
+"2018-01-26","16","Forest Run","","","00:57:21","","","00:57:21","","","","6.5","80.0","2.0","","","","","","","6.50","","","","","Saucony Peregrine","","1.5 out, 3.3 of forest and 15 home.",""
+"2018-01-27","12","Trail Run","long","","01:58:35","","","","01:58:35","","","17.6","275.0","3.0","","149","168","","","","","","","","","Saucony Peregrine","","Ran to Trav's house and back. Tough going with the ice in some places. ",""
+"2018-01-28","16","Trail Run","tempo","","00:39:48","","","","00:39:48","","","8.4","105.0","3.0","","161","178","","","","","","","","","VJ Sport Bold","","Spikes were a good choice. ",""
+"2018-01-28","21","Strength","warm up/down","","00:16:00","","00:16:00","","","","","","","1.0","","","","","","","","","","","","","","2.5 minute plank with leg lifts 
+20 lunges each leg 
+20 Reactive elastic hip extension each leg
+30 squats
+15 ball matches
+20 reactive leg raises
+",""
+"2018-01-29","14","Trail Run","","","01:01:58","","","","01:01:58","","","11.0","105.0","3.0","","152","160","","","","","","","","1","VJ Sport Bold","","Kept a steady pace today. Snow shaker. ",""
+"2018-01-30","18","Trail Run","warm up/down","","00:32:38","","","00:32:38","","","","4.7","30.0","2.0","","116","148","","","","","","","","","Saucony Peregrine","","Warm up to intervals",""
+"2018-01-30","","Trail Run","intervals","","00:32:37","","","","","00:32:37","","5.0","110.0","4.0","","","","","","","","","","","","Saucony Peregrine","","6 repeats of about 1 km interval with big hill at the end. ",""
+"2018-01-30","18","Trail Run","warm up/down","","00:16:59","","","00:16:59","","","","2.0","20.0","2.0","","","","","","","","","","","","Saucony Peregrine","","",""
+"2018-01-31","21","Strength","warm up/down","","00:12:36","","00:12:36","","","","","","","1.0","","","","","","","","","","","1","","","2 minute plank with leg lifts 
+20 lunges each leg 
+20 Reactive elastic hip extension each leg
+15 pistol squats 
+20 reactive leg raises",""
+"2018-02-01","5","Trail Run","warm up/down","","00:25:31","","","","00:25:31","","","3.4","60.0","3.0","","","","","","","6.00","","","","","Saucony Peregrine","","Warm up and cool down. ",""
+"2018-02-01","17","Stairs","hills","","00:27:31","","","","00:27:31","","","1.7","230.0","3.0","","147","183","","","","","","","","","Saucony Peregrine","","6 repeats of running the stairs and repeating every 5 minutes. ",""
+"2018-02-02","16","Forest Run","","","01:07:02","","","","01:07:02","","","7.9","70.0","3.0","","140","159","","","","","","","","1","Saucony Peregrine","","1.5 km out, 4.5 of forest and 1.5 back. ",""
+"2018-02-02","21","Strength","","","00:13:54","","00:13:54","","","","","","","1.0","","110","124","","","","","","","","","","","2 minute plank with leg lifts 
+20 lunges each leg 
+20 Reactive elastic hip extension each leg
+15 pistol squats 
+20 reactive leg raises",""
+"2018-02-03","8","Trail Run","long","","01:48:00","","","","01:48:00","","","15.0","230.0","3.0","","","","","","","","","","","","Saucony Peregrine","","Worked on running pose at SMT. ",""
+"2018-02-04","14","Trail Run","","","00:54:31","","","","00:54:31","","","9.7","110.0","3.0","","152","167","","","","","","","","1","Saucony Peregrine","","Nice and easy up and down the escarpment. ",""
+"2018-02-04","20","Strength","warm up/down","","00:12:12","","00:12:12","","","","","","","1.0","","","","","","","","","","","1","","","Some back strength exercises on the recommendation of Trav. ",""
+"2018-02-05","16","Trail Run","warm up/down","","00:22:30","","","00:22:30","","","","3.1","30.0","2.0","","124","154","","","","","","","","","Saucony Peregrine","","Tried going for a run with my dog but he didn't really catch on to the running part. ",""
+"2018-02-06","18","Trail Run","warm up/down","","00:24:41","","","00:24:41","","","","3.8","40.0","2.0","","135","162","","","","","","","","","Saucony Peregrine","","Warm up to intervals. ",""
+"2018-02-06","18","Trail Run","intervals","","00:29:31","","","","","00:29:31","","4.7","55.0","4.0","","157","164","","","","","","","","","Saucony Peregrine","","5 repeats of about 900 meter loop in the snow. ",""
+"2018-02-06","18","Trail Run","warm up/down","","00:14:10","","","00:14:10","","","","2.0","30.0","2.0","","","","","","","","","","","","Saucony Peregrine","","",""
+"2018-02-07","","Strength","warm up/down","","00:11:51","","00:11:51","","","","","","","1.0","","","","","","","","","","","","","","More back strength. ",""
+"2018-02-07","","Strength","warm up/down","","00:09:58","","00:09:58","","","","","","","1.0","","99","124","","","","","","","","","","","2 minute plank with leg lifts 
+20 lunges each leg 
+20 Reactive elastic hip extension each leg
+15 pistol squats ",""
+"2018-02-08","15","Trail Run","tempo","","00:40:38","","","","","00:40:38","","13.518","","4.0","","160","170","","","","","","","","","Saucony Peregrine","","Tempo up and down the escarpment. ",""
+"2018-02-09","16","Forest Run","","","01:08:39","","","","01:08:39","","","7.1","85.0","3.0","","145","167","","","","","","","","","Saucony Peregrine","","Really beautiful today in the snow. ",""
+"2018-02-09","21","Strength","warm up/down","","00:15:16","","00:15:16","","","","","","","1.0","","","","","","","","","","","","","","2 minute plank with leg lifts 
+20 lunges each leg 
+15 ball bridge
+25 leg ups each leg",""
+"2018-02-10","","Trail Run","long","","01:50:45","","","","01:50:45","","","13.7","265.0","3.0","","151","182","","","","","","","","","Saucony Peregrine","","Slow in the deeper snow. ",""
+"2018-02-10","16","Strength","warm up/down","","00:13:25","","00:13:25","","","","","","","1.0","","","","","","","","","","","","","","Back exercises. ",""
+"2018-02-11","14","Orienteering","","","00:52:23","","","00:52:23","","","","4.1","70.0","2.0","","","","","","","","","","","","Saucony Peregrine","","Checked out the area for the next X league for planning. ",""
+"2018-02-11","22","Strength","warm up/down","","00:15:19","","00:15:19","","","","","","","1.0","","108","136","","","","","","","","","","","2 minute plank with leg lifts 
+30 lunges each leg 
+20 ball march each leg
+25 Reactive elastic hip extension each leg
+25 pistol squats",""
+"2018-02-12","16","Trail Run","","","01:01:23","","","","01:01:23","","","10.8","130.0","3.0","","155","172","","","","","","","","","","","Easy run. Ice makes the trees look real nice but the ground a mess to run on. ",""
+"2018-02-12","","Strength","warm up/down","","00:10:21","","00:10:21","","","","","","","1.0","","107","127","","","","","","","","","","","2.5 minute plank with leg lifts 
+25 lunges each leg 
+25 Reactive elastic hip extension each leg
+20 leg ups",""
+"2018-02-12","","Map Study","","","00:30:00","00:30:00","","","","","","","","0.0","","","","","","","","","","","","","","Designing this week's X league course. ",""
+"2018-02-13","18","Trail Run","warm up/down","","00:21:48","","","00:21:48","","","","3.3","35.0","2.0","","128","158","","","","","","","","","VJ Sport Bold","","Warm up to intervals. ",""
+"2018-02-13","18","Trail Run","intervals","","00:23:00","","","","00:23:00","","","3.8","15.0","3.0","","144","173","","","","","","","","","VJ Sport Bold","","Only did 4 loops (~900m) in anticipation for sprint camp. ",""
+"2018-02-13","18","Trail Run","warm up/down","","00:09:02","","","00:09:02","","","","1.2","","2.0","","141","174","","","","","","","","","VJ Sport Bold","","",""
+"2018-02-13","23","Strength","warm up/down","","00:15:18","","00:15:18","","","","","","","1.0","","","","","","","","","","","","","","Back strength exercises. ",""
+"2018-02-15","18","Orienteering","","","00:50:00","","00:50:00","","","","","5.0","50.0","1.0","","","","","","","","","","","","Saucony Peregrine","","Putting out and collecting controls fro X league. ",""
+"2018-02-16","19","Orienteering","intervals","","00:26:26","","","","00:26:26","","","5.0","","3.0","","","","","","","","","","","","Saucony Peregrine","","First sprint camp training - Otervals. Good start to the weekend by doing some more intense stuff in short bursts of controls to warm up the orienteering muscles for the weekend. ",""
+"2018-02-17","11","Orienteering","race","","00:18:44","","00:18:44","","","","","3.0","30.0","1.0","","","","","","","","","","","","","","First race of the camp didn't go to well. Wasn't mentally ready at the beginning and spent the rest of the race trying to get into it. Also miss punched on the first trasfer just showing my lack of concentration. ",""
+"2018-02-17","13","Orienteering","race","","00:05:11","","","","","00:05:11","","1.2","15.0","4.0","","","","","","","","","","","","Saucony Peregrine","","Pretty good on my leg but a bit shaking on the hand off as I almost let go of the map before she had it. ",""
+"2018-02-17","13","Orienteering","race","","00:05:36","","","","","00:05:36","","1.3","20.0","4.0","","","","","","","","","","","","Saucony Peregrine","","Made one mistake where I got my direction mess up taking a weird turn about thick trees. This cost me several seconds as I started on the wrong path, stop relocated and then finally went to the control. ",""
+"2018-02-17","14","Orienteering","","","00:17:50","","","00:17:50","","","","2.7","","2.0","","","","","","","","","","","","Saucony Peregrine","","Control picking training. On one of the butterfly loops messed up my direction again and spend several minutes trying to figure it. Finally relocated and redirected by going to one the controls. ",""
+"2018-02-17","16","Orienteering","","","00:19:47","","","","","00:19:47","","3.9","25.0","4.0","","","","","","","","","","","","Mizuno Wave Rider","","really struggled with the mulitlevel in the center of the map. On both controls that involved it had a really hard time understanding where things were. ",""
+"2018-02-17","16","Orienteering","","","00:22:12","","","","","00:22:12","","3.5","20.0","4.0","","146","171","","","","","","","","","Mizuno Wave Rider","","Route picking exercise. Legs were quite tired from the today and also didn't want to destroy them for the next race. ",""
+"2018-02-17","","Orienteering","","","00:14:26","","","","00:14:26","","","3.1","20.0","3.0","","","","","","","","","","","","Saucony Peregrine","","Really enjoyed this race. Like the new race format, really intense. Unfortunately got a mispunched on a control :(. ",""
+"2018-02-18","9","Orienteering","","","00:27:27","","","","00:27:27","","","3.8","50.0","3.0","","","","","","","","","","","","Saucony Peregrine","","Multilevel orienteering was hard at the start but by the had a pretty good handle on it. Really fun. ",""
+"2018-02-18","12","Orienteering","","","00:20:26","","","","00:20:26","","","3.3","25.0","3.0","","","","","","","","","","","","Saucony Peregrine","","Didn't good very hard on this training (changed from race to training becuase of how icy it was), legs were worn out.",""
+"2018-02-18","","Orienteering","","","00:17:37","","","","00:17:37","","","3.0","45.0","3.0","","","","","","","","","","","","Saucony Peregrine","","Really focused my way control taking on this. Did pretty well except where the controls were close together so had trouble keeping up. ",""
+"2018-02-20","18","Trail Run","warm up/down","","00:30:00","","","00:30:00","","","","3.4","35.0","2.0","","138","158","","","","","","","","","Saucony Peregrine","","Warm up to intervals. ",""
+"2018-02-20","18","Trail Run","intervals","","00:26:48","","","","","00:26:48","","4.9","15.0","4.0","","153","174","","","","","","","","","Saucony Peregrine","","1.2 km loops. Legs were still feeling this weekend so keep it to only loops. ",""
+"2018-02-20","18","Trail Run","warm up/down","","00:10:11","","","00:10:11","","","","1.5","","2.0","","144","171","","","","","","","","","Saucony Peregrine","","",""
+"2018-02-21","21","Strength","warm up/down","","00:15:00","","00:15:00","","","","","","","1.0","","","","","","","","","","","","","","Back strength ",""
+"2018-02-22","","Trail Run","intervals","","00:40:11","","","","","00:40:11","","6.0","65.0","4.0","","146","185","","","","","","","","","Saucony Peregrine","","Control was do a trail and the goal was to try and find the best to route to run to it. As it turned out it was just to take the trail. ",""
+"2018-02-22","","Map Study","","","01:00:00","01:00:00","","","","","","","","0.0","","","","","","","","","","","","","","Lecture by Meghan on reducing and correcting errors. ",""
+"2018-02-23","16","Forest Run","","","01:06:15","","","","01:06:15","","","7.0","35.0","3.0","","","","","","","","","","","1","Saucony Peregrine","","Brought a map along to practice reading well running. ",""
+"2018-02-23","","Strength","warm up/down","","00:12:30","","00:12:30","","","","","","","1.0","","","","","","","","","","","1","","","3 minute plank
+20 lunges each leg
+20 Reactive elastic hip extension each leg
+1 set of back exercises ",""
+"2018-02-24","8","Trail Run","long","","01:46:55","","","","01:46:55","","","25.589","230.0","3.0","","156","187","","","","","","","","","Saucony Peregrine","","Good SMT. Ran up K2 really hard. ",""
+"2018-02-24","","Strength","warm up/down","","00:11:21","","00:11:21","","","","","","","1.0","","","","","","","","","","","","","","Back strength ",""
+"2018-02-25","10","Orienteering","race","","00:57:04","","","","","00:57:04","","8.1","110.0","4.0","","160","184","","","","","","","","","Saucony Peregrine","","Really good race. Nice to be back in the forest after sprint camp. ",""
+"2018-02-25","","Strength","warm up/down","","00:11:07","","00:11:07","","","","","","","1.0","","","","","","","","","","","","","","2 minute plank with leg lifts
+25 lunges each leg
+30 Reactive elastic hip extension each leg
+25 leg up each leg",""
+"2018-02-26","","Trail Run","","","00:57:23","","","","00:57:23","","","10.8","110.0","3.0","","154","169","","","","","","","","1","Saucony Peregrine","","Legs were quite sore after the race yesterday. ",""
+"2018-02-27","18","Trail Run","warm up/down","","00:31:14","","","00:31:14","","","","4.6","40.0","2.0","","","","","","","","","","","","Saucony Peregrine","","Warm up to intervals",""
+"2018-02-27","18","Trail Run","hills","","00:32:02","","","","","","00:32:02","6.4","160.0","5.0","","","","","","","","","","","","Saucony Peregrine","","10 short high intensity 1:15 sprints up the golf course road hill. ",""
+"2018-02-27","18","Trail Run","warm up/down","","00:10:30","","","00:10:30","","","","1.5","10.0","2.0","","","","","","","","","","","","Saucony Peregrine","","",""
+"2018-02-28","","Strength","warm up/down","","00:15:51","","00:15:51","","","","","","","1.0","","","","","","","","","","","1","","","3 minute plank with leg lifts
+20 lunges each leg
+20 ball marches
+25 Reactive elastic hip extension each leg
+15 ball bridge
+25 leg ups each leg",""
+"2018-03-01","17","Orienteering","race","","00:25:28","","","","","00:25:28","","4.1","50.0","4.0","","144","175","","","","","","","","","Saucony Peregrine","","X league went well and were just able to avoid the weather. ",""
+"2018-03-01","21","Strength","warm up/down","","00:12:00","","00:12:00","","","","","","","1.0","","","","","","","","","","","","","","3 sets of back exercises.",""
+"2018-03-02","16","Forest Run","","","00:48:47","","","","00:48:47","","","5.5","60.0","3.0","","135","163","","","","","","","","1","Saucony Peregrine","","Brought along a map to practice reading well running. Unfortunately the training was cut short by pain in my right heel and leg. ",""
+"2018-03-03","8","Trail Run","long","","00:55:10","","","","00:55:10","","","12.875","130.0","3.0","","153","176","","","","","","","","","Saucony Peregrine","","My SMT was brought short by my right leg again. Tarno took a look at and sent me home. ",""
+"2018-03-04","10","Orienteering","race","","01:18:02","","","","01:18:02","","","12.4","130.0","3.0","","","","","","","","","","","","Saucony Peregrine","","Took this race easier today because of my leg. As well my legs were pretty sore in general so was no where near top speed.",""
+"2018-03-06","18","Trail Run","","","00:56:03","","","","00:56:03","","","9.2","80.0","3.0","","140","154","","","","","","","","","Saucony Peregrine","","Was planning to do intervals but felt a little tension in my ankle tendon so changed to a steady run about the gold course. ",""
+"2018-03-07","21","Strength","warm up/down","","00:14:42","","00:14:42","","","","","","","1.0","","","","","","","","","","","1","","","2 minute plank with leg lifts
+30 lunges each leg
+30 Reactive elastic hip extension each leg
+25 pistol squats each leg
+20 leg ups each leg",""
+"2018-03-08","","Strength","warm up/down","","00:11:49","","00:11:49","","","","","","","1.0","","","","","","","","","","","","","","Back strength exercises ",""
+"2018-03-08","18","Road Run","warm up/down","","00:20:05","","","","00:20:05","","","3.7","","3.0","","","","","","","","","","","","Saucony Peregrine","","Running to churchill park and warming up",""
+"2018-03-08","18","Road Run","intervals","Strength","00:15:21","","","","00:15:21","","","1.3","","3.0","","","","","","","","","","","","Saucony Peregrine","","Tabatas with sprints, lunges, squats and burpees. ",""
+"2018-03-08","18","Trail Run","warm up/down","","00:06:20","","00:06:20","","","","","1.2","","1.0","","","","","","","","","","","","Saucony Peregrine","","Cool down from work out. ",""
+"2018-03-08","19","Map Study","","","01:00:00","01:00:00","","","","","","","","0.0","","","","","","","","","","","","","","Lecture by meghan about preparing for races. ",""
+"2018-03-09","16","Forest Run","","","01:00:53","","","","01:00:53","","","6.9","140.0","3.0","","142","176","","","","","","","","","Saucony Peregrine","","Took a map out with me to practice reading well running. ",""
+"2018-03-10","14","Trail Run","long","","01:31:34","","","","01:31:34","","","14.4","245.0","3.0","","144","164","","","","","","","","","Saucony Peregrine","","Legs were quite tired so run felt tough. ",""
+"2018-03-10","10","Map Study","","","02:00:00","02:00:00","","","","","","","","0.0","","","","","","","","","","","","","","Talking about JWOC with Meghan, Emma, and Sianna",""
+"2018-03-11","22","Strength","warm up/down","","00:17:15","","00:17:15","","","","","","","1.0","","","","","","","","","","","1","","","2.5 minute plank with leg lifts
+25 lunges each leg
+15 ball march each leg
+30 Reactive elastic hip extension each leg
+15 ball bridge each leg",""
+"2018-03-12","23","Strength","warm up/down","","00:11:58","","00:11:58","","","","","","","1.0","","","","","","","","","","","","","","3 sets of back exercises. ",""
+"2018-03-12","","Trail Run","","","01:06:52","","","","01:06:52","","","11.9","120.0","3.0","","153","169","","","","","","","","","Saucony Peregrine","","Steady run. ",""
+"2018-03-13","18","Trail Run","","","00:23:27","","","","00:23:27","","","3.7","30.0","3.0","","","","","","","","","","","","Saucony Peregrine","","Warm up to intervals",""
+"2018-03-13","18","Trail Run","intervals","","00:39:09","","","","","","00:39:09","7.1","145.0","5.0","","","","","","","","","","","","Saucony Peregrine","","5 repeats of three sisters hills. ",""
+"2018-03-13","18","Trail Run","warm up/down","","00:14:39","","00:14:39","","","","","2.0","45.0","1.0","","","","","","","","","","","","Saucony Peregrine","","",""
+"2018-03-13","","Strength","warm up/down","","00:12:02","","00:12:02","","","","","","","1.0","","","","","","","","","","","","","","3 sets of back exercises. ",""
+"2018-03-14","15","Trail Run","warm up/down","","00:21:26","","","","00:21:26","","","3.9","90.0","3.0","","147","162","","","","","","","","","Saucony Peregrine","","Warm on my way up to Iroqouia Heights. ",""
+"2018-03-14","15","Orienteering","","","00:42:19","","","","00:42:19","","","4.1","85.0","3.0","","131","151","","","","","","","","","Saucony Peregrine","","Training went well. Focused on route planning and compass work. Legs got real scratched up from all the brambles.",""
+"2018-03-14","15","Trail Run","warm up/down","","00:27:17","","","","00:27:17","","","4.8","","3.0","","140","160","","","","","","","","","Saucony Peregrine","","Cool down on my run home and reviewing my training. ",""
+"2018-03-14","","Strength","warm up/down","","00:12:35","","00:12:35","","","","","","","1.0","","","","","","","","","","","","","","3 sets of back exercises. ",""
+"2018-03-15","19","Orienteering","race","","00:30:30","","","","","00:30:30","","6.5","40.0","4.0","","143","182","","","","","","","","","Saucony Peregrine","","Fun last winter x league. Pushed speed on this one. ",""
+"2018-03-15","","Strength","warm up/down","","00:12:11","","00:12:11","","","","","","","1.0","","","","","","","","","","","","","","3 sets of back exercises. ",""
+"2018-03-16","17","Forest Run","","","01:02:15","","","","01:02:15","","","6.9","135.0","3.0","","137","157","","","","","","","","1","Saucony Peregrine","","Took a map with me to practice reading while running. ",""
+"2018-03-16","","Strength","warm up/down","","00:11:57","","00:11:57","","","","","","","1.0","","","","","","","","","","","","","","2 minute plank with leg lifts
+25 lunges each leg
+30 Reactive elastic hip extension each leg
+20 pistol squats each leg",""
+"2018-03-17","8","Trail Run","long","","01:50:41","","","","01:50:41","","","17.4","270.0","3.0","","157","185","","","","","","","","","Saucony Peregrine","","Did accelerations and higher intensity stuff on flat while taking hills easy.",""
+"2018-03-18","16","Trail Run","","","00:30:48","","","","00:30:48","","","9.334","","3.0","","152","167","","","","","","","","1","Saucony Peregrine","","Took it easy today as not to put too much stress on my ankle after the long run yesterday. ",""
+"2018-03-19","16","Trail Run","","","01:08:49","","","","01:08:49","","","12.1","155.0","3.0","","147","164","","","","","","","","1","Saucony Peregrine","","Steady  run up to the bridge and back. ",""
+"2018-03-19","21","Strength","warm up/down","","00:07:39","","00:07:39","","","","","","","1.0","","","","","","","","","","","","","","30 Reactive elastic hip extension each leg
+20 lunges each leg",""
+"2018-03-20","18","Trail Run","warm up/down","","00:24:30","","","","00:24:30","","","3.4","40.0","3.0","","145","177","","","","","","","","","Saucony Peregrine","","Warm up to intervals ",""
+"2018-03-20","18","Trail Run","intervals","","00:31:22","","","","","00:31:22","","5.3","100.0","4.0","","147","178","","","","","","","","","Saucony Peregrine","","5 loops of varying length between 800 m to 1200 m.",""
+"2018-03-20","18","Trail Run","warm up/down","","00:14:47","","","00:14:47","","","","2.2","15.0","2.0","","149","164","","","","","","","","","Saucony Peregrine","","",""
+"2018-03-20","22","Strength","warm up/down","","00:12:39","","00:12:39","","","","","","","1.0","","","","","","","","","","","","","","3 sets of back strength exercises  ",""
+"2018-03-21","","Trail Run","intervals","Strength","00:32:51","","","","","00:32:51","","4.7","55.0","4.0","","148","174","","","","","","","","","Saucony Peregrine","","First ARX of the spring. Lots of new faces! 5 loops of intervals and some strength exercises in between. ",""
+"2018-03-21","19","Trail Run","warm up/down","","00:14:53","","00:14:53","","","","","1.1","35.0","1.0","","141","171","","","","","","","","","Saucony Peregrine","","Cool down while picking up flags. ",""
+"2018-03-22","19","Orienteering","","","00:32:21","","","00:32:21","","","","3.46","15.0","2.0","","128","153","","","","","","","","","Saucony Peregrine","","Compass training, most of the map was blank with just areas around the controls. ",""
+"2018-03-22","21","Strength","warm up/down","","00:11:54","","00:11:54","","","","","","","1.0","","","","","","","","","","","","","","3 sets of back strength exercises ",""
+"2018-03-23","16","Forest Run","","","00:54:22","","","","00:54:22","","","6.5","74.0","3.0","","142","166","","","","","","","","","Saucony Peregrine","","Forest running with map reading along the way. ",""
+"2018-03-24","8","Trail Run","","","01:37:28","","","","01:37:28","","","14.9","180.0","3.0","","149","187","","","","","","","","","Saucony Peregrine","","Took it a bit easier on this SMT, strides on the flats. ",""
+"2018-03-26","16","Trail Run","","","00:43:05","","","","00:43:05","","","7.2","110.0","3.0","","153","172","","","","","","","","1","Saucony Peregrine","","Legs felt very tired even with taking it pretty easy so decided to shorten my run abit. ",""
+"2018-03-26","21","Strength","warm up/down","","00:11:22","","00:11:22","","","","","","","1.0","","","","","","","","","","","","","","2 minute plank with leg lefts
+15 lunges each leg
+15 ball march each leg
+25 Reactive elastic hip extension each leg",""
+"2018-03-27","18","Trail Run","warm up/down","","00:31:12","","","00:31:12","","","","4.8","155.0","2.0","","137","151","","","","","","","","","Saucony Peregrine","","Was planning to do TNT but when I was heading to place where I would be running I found that my legs were very worn out from just the warm up so decide to turn back and not push my legs.",""
+"2018-03-28","19","Orienteering","","","00:42:07","","","","00:42:07","","","4.4","145.0","3.0","","140","166","","","","","","","","","Saucony Peregrine","","Some point to point orienteering at ARX. Still was feeling my legs so didn't push them again. ",""
+"2018-03-29","","Note","","","","","","","","","","","","","","","","","","","","","","","","","","Taking the next two days off to gives my legs so full rest",""
+"2018-03-31","","Trail Run","long","","01:34:34","","","","01:34:34","","","14.4","300.0","3.0","","158","186","","","","","","","","","Saucony Peregrine","","SMT with Tarv. Ankle did come up at along the run but legs were still not quite there.",""
+"2018-04-01","17","Trail Run","","","00:36:55","","","","00:36:55","","","5.8","80.0","3.0","","146","169","","","","","","","","","Saucony Peregrine","","Steady state training. ",""
+"2018-04-01","21","Strength","warm up/down","","00:10:34","","00:10:34","","","","","","","1.0","","","","","","","","","","","","","","2 minute plank with leg lefts
+20 lunges each leg
+30 Reactive elastic hip extension each leg
+20 leg ups",""
+"2018-04-02","16","Trail Run","tempo","","00:45:55","","","","","00:45:55","","8.8","115.0","4.0","","158","190","","","","","","","","","Saucony Peregrine","","10 minutes for warm up. Then 5 minutes tempo, 2 minutes recovery. Repeated 5 times. Then about 10 minutes of cool down. ",""
+"2018-04-02","21","Strength","warm up/down","","00:12:12","","00:12:12","","","","","","","1.0","","","","","","","","","","","","","","3 sets of back strength",""
+"2018-04-03","","Note","","","","","","","","","","","","","","","","","","","","","","","","","","Skipped TNT tonight with Flying Pig coming up. ",""
+"2018-04-03","21","Strength","warm up/down","","00:14:18","","00:14:18","","","","","","","1.0","","","","","","","","","","","","","","2 minute plank with leg lefts
+15 lunges each leg
+25 leg ups
+15 pistol squats
+15 ball bridge each leg",""
+"2018-04-04","","Trail Run","","","00:29:46","","","","00:29:46","","","5.5","75.0","3.0","","155","167","","","","","","","","1","Saucony Peregrine","","Steady state training. ",""
+"2018-04-04","22","Strength","warm up/down","","00:08:17","","00:08:17","","","","","","","1.0","","","","","","","","","","","","","","2 sets of back strength",""
+"2018-04-06","17","Orienteering","race","","00:30:45","","","","","","00:30:45","4.9","90.0","5.0","","170","201","","","","","","","","","VJ Sport Bold","","Really good first race, only a couple minor mistakes.",""
+"2018-04-06","17","Trail Run","warm up/down","","00:30:00","","00:30:00","","","","","4.0","","1.0","","","","","","","","","","","","VJ Sport Bold","","Warm up",""
+"2018-04-07","10","Orienteering","race","","00:46:04","","","","","00:46:04","","9.3","60.0","4.0","","162","185","","","","","","","","","VJ Sport Bold","","Golf course was quite fast but not too technical.",""
+"2018-04-07","10","Trail Run","warm up/down","","00:30:00","","00:30:00","","","","","4.0","","1.0","","","","","","","","","","","","VJ Sport Bold","","Warm up to long",""
+"2018-04-07","11","Trail Run","warm up/down","","00:10:00","","00:10:00","","","","","1.0","","1.0","","","","","","","","","","","","VJ Sport Bold","","Cool down",""
+"2018-04-08","9","Orienteering","race","","00:27:47","","","","","00:27:47","","5.7","10.0","4.0","","157","183","","","","","","","","","Saucony Peregrine","","Pretty good finally race of the weekend. ",""
+"2018-04-08","9","Trail Run","warm up/down","","00:25:00","","00:25:00","","","","","4.0","","1.0","","","","","","","","","","","","Saucony Peregrine","","Warm up",""
+"2018-04-08","10","Trail Run","warm up/down","","00:10:00","","00:10:00","","","","","2.0","","1.0","","","","","","","","","","","","Saucony Peregrine","","Cool down",""
+"2018-04-09","16","Trail Run","","","00:36:41","","","","00:36:41","","","7.4","105.0","3.0","","","","","","","","","","","","Mizuno Wave Rider","","Nice easy run after the weekend",""
+"2018-04-10","15","Trail Run","warm up/down","","00:12:00","","","00:12:00","","","","2.3","","2.0","","","","","","","","","","","","Saucony Peregrine","","Warm up and cool down to intervals",""
+"2018-04-10","15","Orienteering","intervals","","00:33:30","","","","","00:33:30","","6.5","55.0","4.0","","","","","","","","","","","","Saucony Peregrine","","First school orienteering practice but since the course was very easy did in all evens then all odds with alternating interval high intensity legs and rest legs. ",""
+"2018-04-11","19","Orienteering","","Core","00:42:11","","","","00:42:11","","","2.8","75.0","3.0","","140","167","","","","","","","","","Saucony Peregrine","","Dice O with core and orienteering legs. ",""
+"2018-04-12","19","Orienteering","race","","00:36:55","","","","","","00:36:55","4.7","160.0","5.0","","168","192","","","","","","","","","Saucony Peregrine","","Muddy X league, tough running.",""
+"2018-04-12","21","Strength","warm up/down","","00:12:13","","00:12:13","","","","","","","1.0","","","","","","","","","","","","","","3 sets of back strength ",""
+"2018-04-13","","Trail Run","","","00:52:08","","","","00:52:08","","","9.2","160.0","3.0","","153","168","","","","","","","","","Saucony Peregrine","","Steady run",""
+"2018-04-14","8","Trail Run","long","","01:24:06","","","","","01:24:06","","13.8","245.0","4.0","","160","182","","","","","","","","","Saucony Peregrine","","Cold and rainy. Hands froze but over all was still a really good with trav and tarno.",""
+"2018-04-16","16","Trail Run","","","01:05:08","","","","01:05:08","","","10.7","125.0","3.0","","","","","","","","","","","1","Saucony Peregrine","","Tough running with the new mud and snow. ",""
+"2018-04-16","21","Strength","warm up/down","","00:15:17","","00:15:17","","","","","","","1.0","","","","","","","","","","","","","","2 min plank with leg lifts
+20 lunges each leg
+25 Reactive elastic hip extension each leg
+15 ball march each leg
+1 set of back strength 
+",""
+"2018-04-17","15","Trail Run","","","00:40:00","","","","00:40:00","","","4.0","40.0","3.0","","","","","","","","","","","","Saucony Peregrine","","School orienteering practice so I ran with some other and did so in run coaching with them.",""
+"2018-04-17","18","Trail Run","warm up/down","","00:29:32","","","00:29:32","","","","3.3","25.0","2.0","","","","","","","","","","","","Saucony Peregrine","","Warm up to intervals",""
+"2018-04-17","19","Trail Run","intervals","","00:25:34","","","","","","00:25:34","4.8","70.0","5.0","","159","190","","","","","","","","","Saucony Peregrine","","3 repeats of longer hill intervals. ",""
+"2018-04-17","19","Trail Run","warm up/down","","00:10:09","","","00:10:09","","","","1.5","30.0","2.0","","148","190","","","","","","","","","Saucony Peregrine","","",""
+"2018-04-17","22","Strength","warm up/down","","00:09:44","","00:09:44","","","","","","","1.0","","","","","","","","","","","","","","2 min plank with leg lifts
+20 lunges each leg
+30 Reactive elastic hip extension each leg
+15 pistol squats each leg",""
+"2018-04-18","19","Orienteering","","","00:40:00","","","","","00:40:00","","6.0","","4.0","","","","","","","","","","","","Saucony Peregrine","","Ran an orienteering course with Mike Waddington giving so coaching tips, big help, thanks!",""
+"2018-04-19","19","Orienteering","","","00:41:55","","","00:41:55","","","","4.5","125.0","2.0","","132","152","","","","","","","","","Saucony Peregrine","","Started with a 10 minute warm up. Corridor was pretty familiar from the day before. ",""
+"2018-04-20","15","Orienteering","","","00:36:02","","","00:36:02","","","","4.8","","2.0","","","","","","","","","","","","Saucony Peregrine","","School orienteering practice so spent the practice doing in run coaching of team mates. ",""
+"2018-04-21","8","Trail Run","long","","02:01:54","","","","02:01:54","","","19.0","","3.0","","155","182","","","","","","","","","Saucony Peregrine","","Good SMT with trav. Enjoyable conversations about Turning completeness and changing law economics. ",""
+"2018-04-22","15","Trail Run","","","00:54:54","","","","00:54:54","","","10.6","195.0","3.0","","158","172","","","","","","","","1","Saucony Peregrine","","Steady run in the new warmth. ",""
+"2018-04-24","","Trail Run","","","00:32:39","","","","00:32:39","","","6.0","70.0","3.0","","153","172","","","","","","","","","Saucony Peregrine","","Easy with the race weekend in mind.",""
+"2018-04-25","11","Orienteering","race","","00:22:51","","","","00:22:51","","","4.3","30.0","3.0","","140","194","","","","","","","","","Saucony Peregrine","","School orienteering meet. Enjoyed the course as it rewarded being able to orienteer. ",""
+"2018-04-26","19","Orienteering","race","","00:41:27","","","","","00:41:27","","8.1","25.0","4.0","","169","192","","","","","","","","","Saucony Peregrine","","Got a cramp half way through the course which sucked but still enjoyed the area. ",""
+"2018-04-28","11","Orienteering","race","","01:23:42","","","","","01:23:42","","8.6","360.0","4.0","","169","188","","","","","","","","","VJ Sport Bold","","First race of the weekend didn't go so well with a larger mistake and some smaller mistakes.",""
+"2018-04-28","10","Orienteering","warm up/down","","00:40:00","","","","00:40:00","","","5.0","","3.0","","","","","","","","","","","","VJ Sport Bold","","Ran the model course at the bottom of the mountain so got lots of climb in on my way back up.",""
+"2018-04-29","10","Orienteering","warm up/down","","00:40:00","","","00:40:00","","","","5.0","200.0","2.0","","","","","","","","","","","","VJ Sport Bold","","Warmed up on the model map which was at the bottom of the mountain so go a bunch of climb in on my way back up.",""
+"2018-04-29","11","Orienteering","race","","01:10:14","","","","","01:10:14","","7.7","320.0","4.0","","","","","","","","","","","","VJ Sport Bold","","Race went better than yesterday.",""
+"2018-04-29","10","Trail Run","warm up/down","","00:40:00","","","00:40:00","","","","6.0","20.0","2.0","","","","","","","","","","","","VJ Sport Bold","","Warm before race. ",""
+"2018-05-01","18","Trail Run","warm up/down","","00:19:13","","","00:19:13","","","","2.6","10.0","2.0","","","","","","","","","","","","Saucony Peregrine","","Warm up to intervals ",""
+"2018-05-01","18","Trail Run","intervals","","00:25:59","","","","","","00:25:59","5.1","5.0","5.0","","","","","","","","","","","","Saucony Peregrine","","5 1 km loops chasing Sudden",""
+"2018-05-01","19","Trail Run","warm up/down","","00:15:38","","","00:15:38","","","","2.0","","2.0","","","","","","","","","","","","Saucony Peregrine","","",""
+"2018-05-02","19","Strength","","","00:10:00","","00:10:00","","","","","","","1.0","","","","","","","","","","","1","","","Core at ARX",""
+"2018-05-03","19","Orienteering","","","00:45:06","","","","00:45:06","","","5.4","70.0","3.0","","","","","","","","","","","","Saucony Peregrine","","Really good training focusing on compass work and longer legs. ",""
+"2018-05-04","15","Orienteering","race","","00:32:48","","","","","00:32:48","","5.4","60.0","4.0","","","","","","","","","","","","Mizuno Wave Rider","","Score O race at school training. ",""
+"2018-05-05","10","Trail Run","warm up/down","","00:40:00","","","00:40:00","","","","4.0","","2.0","","","","","","","","","","","","VJ Sport Bold","","Warm up for race",""
+"2018-05-05","11","Orienteering","race","","00:54:46","","","","","","00:54:46","8.2","180.0","5.0","","177","190","","","","","","","","","VJ Sport Bold","","Felt really good for in this race. Had focus and did well with using my compass. ",""
+"2018-05-05","12","Trail Run","warm up/down","","00:10:00","","00:10:00","","","","","1.5","","1.0","","","","","","","","","","","","VJ Sport Bold","","Cooling down from race. ",""
+"2018-05-05","13","Orienteering","","","00:29:16","","","","","00:29:16","","3.6","85.0","4.0","","","","","","","","","","","","VJ Sport Bold","","Running the last loop of the blue course. ",""
+"2018-05-06","11","Cycling","","","00:40:00","","","","00:40:00","","","16.0","200.0","3.0","","","","","","","","","","","","","","Cycling on the bruce trail. ",""
+"2018-05-07","16","Trail Run","","","01:03:28","","","","01:03:28","","","11.4","245.0","3.0","","","","","","","","","","","","Mizuno Wave Rider","","This was to first time running my route out the highway in awhile which was nice. As well with the wind storm lots of trees down. I see more jumping in more future runs. ",""
+"2018-05-07","21","Strength","warm up/down","","00:10:31","","00:10:31","","","","","","","1.0","","","","","","","","","","","","","","2 min plank
+20 lunges each leg
+25 Reactive elastic hip extension each leg
+15 leg ups",""
+"2018-05-08","15","Orienteering","race","","00:38:51","","","","00:38:51","","","7.1","100.0","3.0","","","","","","","","","","","","Mizuno Wave Rider","","School orienteering training race. ",""
+"2018-05-08","18","Trail Run","warm up/down","","00:28:06","","","","00:28:06","","","3.2","40.0","3.0","","133","164","","","","","","","","","Saucony Peregrine","","Warm up to intervals",""
+"2018-05-08","18","Trail Run","intervals","","00:25:17","","","","","","00:25:17","5.1","30.0","5.0","","160","185","","","","","","","","","Saucony Peregrine","","My legs were a bit sore from the school orienteering early on the day so only did 4 1 km loops. ",""
+"2018-05-08","18","Trail Run","warm up/down","","00:11:55","","","00:11:55","","","","1.0","30.0","2.0","","130","184","","","","","","","","","Mizuno Wave Rider","","",""
+"2018-05-09","18","Orienteering","","","00:20:00","","","00:20:00","","","","3.0","30.0","2.0","","","","","","","","","","","1","Saucony Peregrine","","Placing pipe cleaners at control without flags",""
+"2018-05-09","21","Strength","warm up/down","","00:13:26","","00:13:26","","","","","","","1.0","","","","","","","","","","","","","","2 min plank with leg lifts
+25 lunges each leg
+30 Reactive elastic hip extension each leg
+15 ball bridge each leg",""
+"2018-05-10","19","Orienteering","race","","00:31:09","","","","","00:31:09","","5.9","70.0","4.0","","171","190","","","","","","","","","Saucony Peregrine","","Was shaky in the first half but then really turn up the speed for the park area. ",""
+"2018-05-10","7","Strength","warm up/down","","00:13:03","","00:13:03","","","","","","","1.0","","","","","","","","","","","","","","3 sets of back strength ",""
+"2018-05-11","15","Orienteering","race","","00:45:00","","","","","00:45:00","","7.5","85.0","4.0","","159","181","","","","","","","","","Saucony Peregrine","","Last of the school orienteering training races. ",""
+"2018-05-13","16","Trail Run","","","00:53:56","","","","00:53:56","","","7.9","145.0","3.0","","145","168","","","","","","","","","On Cloudventure","","Trying out the new shoes.",""
+"2018-05-13","22","Strength","warm up/down","","00:12:09","","00:12:09","","","","","","","1.0","","","","","","","","","","","","","","2 min plank with leg lifts
+25 lunges each leg
+15 ball marching each leg
+30 Reactive elastic hip extension each leg
+15 pistol squats each leg",""
+"2018-05-15","16","Trail Run","","","00:36:40","","","00:36:40","","","","4.5","70.0","2.0","","","","","","","","","","","","On Cloudventure","","Easy run before the school orienteering race tomorrow. ",""
+"2018-05-15","21","Strength","warm up/down","","00:11:12","","00:11:12","","","","","","","1.0","","","","","","","","","","","","","","3 sets of back strength exercises  ",""
+"2018-05-16","11","Orienteering","race","","00:58:55","","","","","00:58:55","","10.1","130.0","4.0","","167","188","","","","","","","","","VJ Sport Bold","","Really enjoyable last school orienteering race. ",""
+"2018-05-17","19","Orienteering","","","00:47:26","","","","00:47:26","","","5.8","60.0","3.0","","154","176","","","","","","","","","On Cloudventure","","Good training despite my poor choice of 3/4 pants with no socks leading to ripped up shines. ",""
+"2018-05-17","21","Strength","warm up/down","","00:11:44","","00:11:44","","","","","","","1.0","","","","","","","","","","","","","","3 sets of back exercises.  ",""
+"2018-05-18","","Trail Run","tempo","","01:00:37","","","","01:00:37","","","11.4","100.0","3.0","","156","176","","","","","","","","","On Cloudventure","","Alternating tempo 3 minutes on and 4 minutes off. ",""
+"2018-05-18","22","Strength","warm up/down","","00:08:44","","00:08:44","","","","","","","1.0","","","","","","","","","","","","","","2 min plank with leg lifts
+15 lunges each leg
+30 Reactive elastic hip extension each leg
+15 legs ups each leg",""
+"2018-05-19","12","Trail Run","long","","02:05:22","","","","02:05:22","","","21.3","290.0","3.0","","151","172","","","","","","","","","On Cloudventure","","Long steady run. ",""
+"2018-05-21","21","Strength","warm up/down","","00:17:01","","00:17:01","","","","","","","1.0","","","","","","","","","","","","","","2 min plank with leg lifts
+25 lunges each leg
+15 ball march each leg
+15 ball bridge each leg
+30 Reactive elastic hip extension each leg",""
+"2018-05-22","18","Trail Run","warm up/down","","00:27:02","","","","00:27:02","","","3.6","30.0","3.0","","","","","","","","","","","","On Cloudventure","","Warm up to intervals ",""
+"2018-05-22","18","Trail Run","intervals","","00:30:09","","","","","","00:30:09","6.2","5.0","5.0","","165","194","","","","","","","","","On Cloudventure","","5 repeats of 1km ioops",""
+"2018-05-22","19","Trail Run","warm up/down","","00:12:46","","","00:12:46","","","","1.5","20.0","2.0","","150","193","","","","","","","","","On Cloudventure","","",""
+"2018-05-22","22","Strength","warm up/down","","00:11:43","","00:11:43","","","","","","","1.0","","","","","","","","","","","","","","3 sets of back exercises  ",""
+"2018-05-23","19","Orienteering","","","00:46:53","","","","00:46:53","","","4.9","95.0","3.0","","","","","","","","","","","","On Cloudventure","","Following along practice. ",""
+"2018-05-23","21","Strength","warm up/down","","00:10:43","","00:10:43","","","","","","","1.0","","","","","","","","","","","","","","2 min plank with leg lifts
+30 lunges each leg
+30 Reactive elastic hip extension each leg
+30 leg ups",""
+"2018-05-24","19","Orienteering","race","","00:33:26","","","","","","00:33:26","7.2","70.0","5.0","","176","192","","","","","","","","","On Cloudventure","","Intense x league race. ",""
+"2018-05-24","21","Strength","warm up/down","","00:12:03","","00:12:03","","","","","","","1.0","","","","","","","","","","","","","","3 sets of back exercises  ",""
+"2018-05-25","15","Orienteering","","","01:32:17","","","01:32:17","","","","12.1","165.0","2.0","","145","168","","","","","","","","","On Cloudventure","","Collecting flagging tape from Wednesday. Tough with the sun though. ",""
+"2018-05-26","8","Trail Run","long","","01:43:09","","","","01:43:09","","","15.0","250.0","3.0","","106","203","","","","","","","","","On Cloudventure","","Good to back at SMT after several weeks not being able to go. Lots of very short intense sprints. ",""
+"2018-05-26","22","Strength","warm up/down","","00:12:09","","00:12:09","","","","","","","1.0","","","","","","","","","","","","","","3 sets of back exercises. ",""
+"2018-05-27","10","Cycling","","","00:40:00","","","00:40:00","","","","15.0","265.0","2.0","","","","","","","","","","","","","","",""
+"2018-05-27","21","Strength","warm up/down","","00:10:19","","00:10:19","","","","","","","1.0","","","","","","","","","","","","","","2 minute plank
+30 lunges each leg
+40 Reactive elastic hip extension each leg
+20 leg ups eahc leg",""
+"2018-05-28","21","Strength","warm up/down","","00:10:29","","00:10:29","","","","","","","1.0","","","","","","","","","","","","","","2 min plank
+25 lunges each leg
+35 Reactive elastic hip extension each leg
+20 pistol",""
+"2018-05-29","","Trail Run","warm up/down","","00:35:01","","","","00:35:01","","","4.2","25.0","3.0","","","","","","","","","","","","On Cloudventure","","Warming up to intervals. Part of this was on a bike getting to Churchill. ",""
+"2018-05-29","18","Trail Run","intervals","","00:32:24","","","","","","00:32:24","6.21","55.0","5.0","","175","192","","","","","","","","","On Cloudventure","","30 seconds on, 30 seconds off. Repeated 30 times. ",""
+"2018-05-29","18","Trail Run","warm up/down","","00:10:28","","","00:10:28","","","","1.2","","2.0","","","","","","","","","","","","On Cloudventure","","",""
+"2018-05-30","21","Strength","warm up/down","","00:09:56","","00:09:56","","","","","","","1.0","","","","","","","","","","","1","","","25 lunges each leg
+25 ball marching each leg
+25 Reactive elastic hip extension each leg
+10 pistol squat each leg",""
+"2018-05-31","","Orienteering","","","00:41:21","","","","00:41:21","","","4.8","80.0","3.0","","","","","","","","","","","","On Cloudventure","","O tervals",""
+"2018-06-01","18","Orienteering","","","00:56:17","","","","00:56:17","","","5.0","85.0","3.0","","143","165","","","","","","","","","On Cloudventure","","First training of the camp. Control pick with a focus on control taking method. ",""
+"2018-06-02","10","Orienteering","","","01:16:28","","","","01:16:28","","","5.5","80.0","3.0","","137","161","","","","","","","","","VJ Sport Bold","","Narrowing corridor. Tough but felt it was good training. ",""
+"2018-06-02","13","Orienteering","intervals","","00:36:05","","","","","00:36:05","","4.4","30.0","4.0","","146","188","","","","","","","","","On Cloudventure","","5 o tervals though Perth (the area of this past year's COC sprint). Realy enjoyable racing with the other HPP juniors in the intervals.",""
+"2018-06-02","9","Trail Run","warm up/down","","00:20:00","","00:20:00","","","","","","","1.0","","","","","","","","","","","","VJ Sport Bold","","",""
+"2018-06-02","13","Trail Run","warm up/down","","00:13:00","","00:13:00","","","","","","","1.0","","","","","","","","","","","","On Cloudventure","","",""
+"2018-06-02","20","Strength","warm up/down","","00:15:00","","00:15:00","","","","","","","1.0","","","","","","","","","","","","","","Stretches lead by Adventure Girl. ",""
+"2018-06-03","10","Orienteering","race","","01:19:46","","","","","01:19:46","","8.3","110.0","4.0","","160","182","","","","","","","","","VJ Sport Bold","","A couple mistakes but felt I reset after them well. ",""
+"2018-06-03","10","Trail Run","warm up/down","","00:20:00","","00:20:00","","","","","3.219","","1.0","","","","","","","","","","","","VJ Sport Bold","","",""
+"2018-06-03","13","Orienteering","race","","00:17:31","","","","","00:17:31","","2.1","60.0","4.0","","160","174","","","","","","","","","VJ Sport Bold","","First lap in relay. ",""
+"2018-06-03","13","Orienteering","race","","00:20:03","","","","","00:20:03","","2.1","45.0","4.0","","153","173","","","","","","","","","VJ Sport Bold","","Relay lap 2",""
+"2018-06-04","22","Strength","warm up/down","","00:12:29","","00:12:29","","","","","","","1.0","","","","","","","","","","","","","","3 sets of back exercises",""
+"2018-06-06","","Strength","warm up/down","","00:22:54","","","","00:22:54","","","","","3.0","","","","","","","","","","","","","","Turbo Core workout with adventure girl",""
+"2018-06-07","19","Orienteering","race","","00:40:58","","","","","00:40:58","","12.714","70.0","4.0","","166","185","","","","","","","","","Mizuno Wave Rider","","About half way through hit knee pain in my right knee. Slowed down but it was still tough going for the rest. ",""
+"2018-06-10","10","Orienteering","race","","00:44:19","","","","00:44:19","","","5.8","95.0","3.0","","151","179","","","","","","","","","On Cloudventure","","Took this race easy. Tried out kt tape which seemed to work pretty well and only did the first map which didn't take me the hour to do but I didn't want to push my knees. ",""
+"2018-06-11","21","Strength","warm up/down","","00:18:08","","00:18:08","","","","","","","1.0","","","","","","","","","","","","","","2 Back sets
+30 squats
+10 lunges each leg
+40 Reactive elastic hip extension each leg
+40 forward elastic hip extension each leg",""
+"2018-06-12","18","Trail Run","warm up/down","","00:27:06","","","00:27:06","","","","3.8","35.0","2.0","","","","","","","","","","","","Mizuno Wave Rider","","Warm up to intervals ",""
+"2018-06-12","18","Trail Run","intervals","","00:27:29","","","","","","00:27:29","4.6","45.0","5.0","","","","","","","","","","","","Mizuno Wave Rider","","3 sets of 3-2-1 intervals ",""
+"2018-06-12","18","Trail Run","warm up/down","","00:12:02","","","00:12:02","","","","1.5","5.0","2.0","","","","","","","","","","","","Mizuno Wave Rider","","",""
+"2018-06-13","15","Trail Run","","","00:59:01","","","","00:59:01","","","10.8","150.0","3.0","","157","174","","","","","","","","","Mizuno Wave Rider","","Longer steady run. ",""
+"2018-06-14","21","Strength","warm up/down","","00:22:54","","00:22:54","","","","","","","1.0","","","","","","","","","","","","","","2 minute plank
+40 squats
+30 lunges each leg
+15 ball bridge each leg
+20 push ups
+40 Reactive elastic hip extension each leg
+30 leg raises each leg 
+15 heel raises each leg",""
+"2018-06-15","16","Trail Run","tempo","","00:46:03","","","","","00:46:03","","9.1","150.0","4.0","","161","183","","","","","","","","","Mizuno Wave Rider","","",""
+"2018-06-16","8","Trail Run","long","","01:28:47","","","","01:28:47","","","12.4","175.0","3.0","","","","","","","","","","","","Mizuno Wave Rider","","A bit of a slower SMT with my knees and Trav's calf",""
+"2018-06-17","21","Strength","warm up/down","","00:13:00","","00:13:00","","","","","","","1.0","","","","","","","","","","","","","","40 Reactive elastic hip extension each leg
+40 Forward elastic hip extension each leg
+30 leg raises each leg
+20 squats ",""
+"2018-06-18","22","Strength","warm up/down","","00:19:31","","00:19:31","","","","","","","1.0","","","","","","","","","","","","","","45 squats
+45 lunges each leg
+30 leg lifts each leg
+40 Reactive elastic hip extension each leg
+40 forward elastic hip extension each leg
+20 heel raises each leg",""
+"2018-06-21","21","Strength","warm up/down","","00:16:00","","00:16:00","","","","","","","1.0","","","","","","","","","","","","","","40 squats
+35 lunges each leg
+25 Reactive elastic hip extension each leg
+25 forward elastic hip extension each leg",""
+"2018-06-22","","Strength","warm up/down","","00:11:54","","00:11:54","","","","","","","1.0","","","","","","","","","","","","","","",""
+"2018-06-24","","Strength","warm up/down","","00:36:04","","00:36:04","","","","","","","1.0","","","","","","","","","","","","","","",""
+"2018-06-27","","Strength","warm up/down","","00:18:27","","00:18:27","","","","","","","1.0","","","","","","","","","","","","","","",""
+"2018-06-28","14","Trail Run","","","01:03:34","","","","01:03:34","","","16.415","","3.0","","","","","","","","","","","","Inov F-LITE 195","","",""
+"2018-06-29","16","Trail Run","","","00:40:04","","","","00:40:04","","","7.0","75.0","3.0","","","","","","","","","","","","Inov F-LITE 195","","",""
+"2018-07-01","12","Road Run","tempo","","00:24:26","","","","","00:24:26","","8.047","","4.0","","161","175","","","","","","","","","Inov F-LITE 195","","Felt awful the plane ride and definitely jet lagged. Was good to get out and stretch the legs though. ",""
+"2018-07-02","11","Orienteering","warm up/down","","00:44:01","","00:44:01","","","","","2.8","10.0","1.0","","114","156","","","","","","","","","Inov F-LITE 195","","First time on a map in Hungary. Took it very slow to really see what different parts of the terrain looked like and how it was mapped. Very different from back home. ",""
+"2018-07-02","","Orienteering","","","01:00:09","","","","01:00:09","","","7.3","45.0","3.0","","156","173","","","","","","","","","Inov F-LITE 195","","Long terrain training. Really enjoyed it, most legs were just go straight and keep track of which block of forest you were in. ",""
+"2018-07-03","10","Orienteering","warm up/down","","00:23:14","","00:23:14","","","","","1.5","10.0","1.0","","111","127","","","","","","","","","Inov F-LITE 195","","Middle terrain walk. Very technical. ",""
+"2018-07-03","10","Orienteering","","","00:41:17","","","","00:41:17","","","5.1","5.0","3.0","","149","173","","","","","","","","","Inov F-LITE 195","","Running a few controls in the middle terrain. Big take away from this was to know exactly what the control area will look like and have a very definite AP. ",""
+"2018-07-03","19","Trail Run","warm up/down","","00:20:00","","","00:20:00","","","","4.828","","2.0","","","","","","","","","","","","Inov F-LITE 195","","",""
+"2018-07-03","19","Orienteering","intervals","","00:33:47","","","","","00:33:47","","5.2","5.0","4.0","","166","192","","","","","","","","","Inov F-LITE 195","","Relay terrain training. 5 sets of o-tervals. This terrain was a lot easier than the middle, plus it was fun to have a training where we were pushing speed. ",""
+"2018-07-04","","Strength","warm up/down","","00:22:02","","00:22:02","","","","","","","1.0","","92","110","","","","","","","","1","","","Core workout lead by AdventureGirl!",""
+"2018-07-05","10","Orienteering","","","00:53:30","","","","00:53:30","","","4.2","20.0","3.0","","143","174","","","","","","","","","Inov F-LITE 195","","More training in middle terrain. Felt pretty good, was able to keep track of the vegetation with decent speed. Messed up a couple controls in the circles because I didn't good APs. ",""
+"2018-07-06","11","Orienteering","","","01:07:51","","","01:07:51","","","","4.7","10.0","2.0","","118","162","","","","","","","","","Inov F-LITE 195","","Final training on the middle terrain before JWOC. Unfortunately wasn't able to end on a high note as I had a 35 minute control. This started from getting distracted by another runner and then before I found the control it was picked up so I ended finding the same spot a couple times. At least this gave me some relocation practice in the junipers (bailing out the a trail).  ",""
+"2018-07-06","10","Trail Run","warm up/down","","00:25:00","","00:25:00","","","","","2.0","","1.0","","","","","","","","","","","","Inov F-LITE 195","","",""
+"2018-07-06","16","Orienteering","","","00:19:19","","","","","00:19:19","","3.8","","4.0","","167","184","","","","","","","","","Inov F-LITE 195","","First sprint o in a while so it was quite fun, especially with euro street layout that I'm not use to. Overall went pretty well with some route choice mistakes where I missed some diagonals. ",""
+"2018-07-06","12","Road Run","warm up/down","","00:08:00","","00:08:00","","","","","1.5","","1.0","","","","","","","","","","","","Inov F-LITE 195","","",""
+"2018-07-07","10","Orienteering","","","00:41:51","","","00:41:51","","","","4.5","5.0","2.0","","135","175","","","","","","","","","Inov F-LITE 195","","Final long terrain training before JWOC. Wasn't very focused so was sloppy pretty much the whole time. ",""
+"2018-07-08","","Flexibility","warm up/down","","00:20:00","00:20:00","","","","","","","","0.0","","","","","","","","","","","","","","Yoga lead by sensei Naess",""
+"2018-07-09","9","Orienteering","race","","02:01:39","","","","","02:01:39","","17.7","90.0","4.0","","168","192","","","","","","","","","Inov F-LITE 195","","First JWOC race!!! Pretty intimidating at the start with the silence. Overall it was a positive first JWOC race - no huge mistake. Although I was quite cautious in the race with staying in contact, even in places where I should have been looking up more where the terrain was open enough that I would have see the control or the feature. As well going through the arena passage destroyed my focus so coming out of it just kinda run into the woods for a bit and then took awhile to relocate. ",""
+"2018-07-09","8","Trail Run","warm up/down","","00:40:00","","","00:40:00","","","","","","2.0","","","","","","","","","","","","","","",""
+"2018-07-10","7","Road Run","warm up/down","","00:16:03","","","","00:16:03","","","3.1","","3.0","","146","168","","","","","","","","","Inov F-LITE 195","","Morning run with team to loosen up legs after long. Did some strides along the way. ",""
+"2018-07-10","15","Road Run","warm up/down","","00:40:00","","","00:40:00","","","","4.0","","2.0","","153","177","","","","","","","","","Inov F-LITE 195","","",""
+"2018-07-10","15","Orienteering","race","","00:21:57","","","","","00:21:57","","4.4","40.0","4.0","","174","189","","","","","","","","","Inov F-LITE 195","","This race didn't go well. Second guessed my self a bunch of times where I would take a couple steps in the direction of route choice before switch my route. As well on 12 made a big missed the ally I should have turned down leading to me having to go all the way around a building. After this I had much less motivation to push myself.",""
+"2018-07-10","18","Road Run","warm up/down","","00:10:00","","00:10:00","","","","","1.2","","1.0","","","","","","","","","","","","Inov F-LITE 195","","cool down from sprint. ",""
+"2018-07-10","11","Trail Run","warm up/down","","00:10:00","","00:10:00","","","","","1.609","","1.0","","","","","","","","","","","","VJ Sport Bold","","",""
+"2018-07-12","11","Trail Run","warm up/down","","00:15:00","","00:15:00","","","","","3.219","","1.0","","","","","","","","","","","","Inov F-LITE 195","","",""
+"2018-07-12","9","Orienteering","warm up/down","","00:30:00","","","00:30:00","","","","3.0","","2.0","","","","","","","","","","","","VJ Sport Bold","","",""
+"2018-07-12","10","Orienteering","race","","00:39:21","","","","","00:39:21","","5.7","10.0","4.0","","159","187","","","","","","","","","VJ Sport Bold","","Technical felt quite. The middles were the races I was most worried about after struggling with the terrain the most in training. The terrain for the quali was much more in the forest than I expected. This though meant going in I was more focused on having a clean race and pushing it was second to that but with a easier nav this meant I didn't do as well I a might have I a could have probably pushed harder in through the forest blocks. ",""
+"2018-07-13","9","Orienteering","warm up/down","","00:30:00","","","00:30:00","","","","3.0","","2.0","","","","","","","","","","","","VJ Sport Bold","","",""
+"2018-07-13","10","Orienteering","race","","00:33:35","","","","","","00:33:35","4.4","15.0","5.0","","169","201","","","","","","","","","VJ Sport Bold","","Had a rocky start by messing up the first control (very fun), but I think I recovered well and a pretty good rest of the race. Stuck to always taking the simplest route because I figure I would lose as much or more time naviagting though the junipers, with a higher chance of getting lost, than the extra distance to huck it out to a trail. ",""
+"2018-07-13","11","Trail Run","warm up/down","","00:15:00","","00:15:00","","","","","2.5","","1.0","","","","","","","","","","","","VJ Sport Bold","","",""
+"2018-07-14","12","Trail Run","warm up/down","","00:30:00","","","","00:30:00","","","3.0","","3.0","","","","","","","","","","","","VJ Sport Bold","","",""
+"2018-07-14","13","Orienteering","race","","00:48:11","","","","","","00:48:11","8.1","15.0","5.0","","176","201","","","","","","","","","VJ Sport Bold","","Was dropped by the pack on the first control both in speed and me messing it up. After this tried to push and just pick off the people in front of me. This was going pretty well until the leg to 9 where I completely lost contact early in the leg then not long after physically and mentally broke to the point where I had trouble focusing enough to figure out what I needed to do to relocate. The controls after 9 also went poorly. It wasn't until the last couple controls where I decided to forget about the overall race and just beat the guy about 20 seconds in front of me. This brought me back online to be about the really focus and push to be about to beat him. ",""
+"2018-07-17","9","Road Run","warm up/down","","00:18:27","","","","00:18:27","","","3.4","","3.0","","144","165","","","","","","","","","Inov F-LITE 195","","Easy run after a couple days off because of travel and just rest. ",""
+"2018-07-18","12","Orienteering","","","01:00:00","","","","01:00:00","","","6.6","140.0","3.0","","152","180","","","","","","","","","Inov F-LITE 195","","Running in Norwegian forest around Trondheim - beautiful! ",""
+"2018-07-18","13","Trail Run","warm up/down","","00:20:00","","","","00:20:00","","","4.0","50.0","3.0","","","","","","","","","","","","Inov F-LITE 195","","",""
+"2018-07-19","13","Trail Run","","","00:25:00","","","","","00:25:00","","4.0","185.0","4.0","","159","177","","","","","","","","","Inov F-LITE 195","","Running out the the map I had's area. ",""
+"2018-07-19","13","Orienteering","","","01:47:23","","","","","01:47:23","","11.2","350.0","4.0","","155","183","","","","","","","","","Inov F-LITE 195","","Stunning orienteering! This was a highlight of my trip. Amazing forests, marshes and fields, plus incredible views from the top of the mountain. What's not to love. ",""
+"2018-07-19","14","Trail Run","","","00:45:41","","","","00:45:41","","","7.3","65.0","3.0","","149","173","","","","","","","","","Inov F-LITE 195","","Run home with DD. Got a bit lost as we were on the maps we had. ",""
+"2018-07-22","8","Trail Run","warm up/down","","00:25:00","","","00:25:00","","","","2.0","75.0","2.0","","","","","","","","","","","","VJ IRock","","",""
+"2018-07-22","9","Orienteering","race","","01:17:15","","","","01:17:15","","","7.1","245.0","3.0","","151","185","","","","","","","","","VJ IRock","","Rocky start to O-Ringen. At the start was very quite overwhelmed by the number out people out there so was not focused. This continued through the race. As well I struggled with the rocks physically and navigationally. ",""
+"2018-07-23","11","Orienteering","race","","01:17:06","","","","","01:17:06","","7.8","165.0","4.0","","160","180","","","","","","","","","VJ Sport Bold","","This race went better than the day before, but still with some rather slow legs. As well really messed up the second to last control by several minutes. ",""
+"2018-07-23","10","Trail Run","warm up/down","","00:35:00","","","00:35:00","","","","1.5","15.0","2.0","","","","","","","","","","","","VJ Sport Bold","","",""
+"2018-07-25","11","Trail Run","warm up/down","","00:40:00","","","","00:40:00","","","2.4","155.0","3.0","","","","","","","","","","","","VJ Sport Bold","","",""
+"2018-07-25","12","Orienteering","race","","00:45:00","","","","00:45:00","","","4.6","65.0","3.0","","150","197","","","","","","","","","VJ Sport Bold","","Focused on the navigation through this race. This meant I took many legs slower but was happy with my technical execution. ",""
+"2018-07-26","9","Trail Run","warm up/down","","00:40:00","","","00:40:00","","","","2.7","85.0","2.0","","","","","","","","","","","","VJ Sport Bold","","",""
+"2018-07-26","9","Orienteering","race","","01:05:38","","","","01:05:38","","","6.9","210.0","3.0","","153","189","","","","","","","","","VJ Sport Bold","","Felt this was on of my better races of oringen. This is because I felt focused pretty much the whole way through and that I was able to have an ok while remaining in control navigationally. Did make one biggish mistake half way through where I messed up my direction and ended up just being slow to get to a trail. ",""
+"2018-07-27","11","Trail Run","warm up/down","","00:25:00","","","00:25:00","","","","1.2","","2.0","","","","","","","","","","","","VJ Sport Bold","","",""
+"2018-07-27","11","Orienteering","race","","01:00:32","","","","01:00:32","","","7.6","120.0","3.0","","160","196","","","","","","","","","VJ Sport Bold","","Didn't really get really focused until about half way through after I had a big mistake where I went into a control with no AP and ended up wandering around for a bit. This though reset me focus and after that I felt very committed to the orienteering where before the mistake I wasn't.",""
+"2018-08-02","14","Cycling","long","","01:53:13","","","","01:53:13","","","40.9","205.0","3.0","","147","171","","","","","","","","","Inov F-LITE 195","","Long steady bike ride along the rail trail.",""
+"2018-08-02","16","Trail Run","warm up/down","","00:11:51","","","00:11:51","","","","1.9","45.0","2.0","","152","167","","","","","","","","","Inov F-LITE 195","","Cool down after bike ride. ",""
+"2018-08-03","16","Trail Run","tempo","","00:53:52","","","","","00:53:52","","11.6","90.0","4.0","","175","189","","","","","","","","","Inov F-LITE 195","","Quite enjoyable first run up the escarpment since I got back. Really hot, might not have been the best idea to wear all black. ",""
+"2018-08-04","","Trail Run","long","","02:08:02","","","","02:08:02","","","18.4","280.0","3.0","","150","173","","","","","","","","","Inov F-LITE 195","","Long slow run out to Dundas to meet parents.  ",""
+"2018-08-06","14","Road Run","tempo","","00:46:42","","","","","00:46:42","","9.2","20.0","4.0","","162","180","","","","","","","","","Inov F-LITE 195","","Run with uncle on Toronto island. ",""
+"2018-08-07","21","Strength","warm up/down","","00:09:22","","00:09:22","","","","","","","1.0","","","","","","","","","","","","","","",""
+"2018-08-08","17","Trail Run","","","00:32:40","","","","00:32:40","","","6.5","90.0","3.0","","163","175","","","","","","","","","Inov F-LITE 195","","Easy run to get my legs moving for a bit. ",""
+"2018-08-08","","Strength","warm up/down","","00:24:13","","00:24:13","","","","","","","1.0","","98","131","","","","","","","","","","","Rolling, wall presses and lunges. ",""
+"2018-08-09","10","Trail Run","long","","01:55:59","","","","01:55:59","","","16.5","75.0","3.0","","156","180","","","","","","","","","Inov F-LITE 195","","Good run at Crawford Creek
+",""
+"2018-08-11","","Trail Run","long","","01:50:14","","","","01:50:14","","","15.4","175.0","3.0","","152","200","","","","","","","","","Inov F-LITE 195","","Good to be back at SMT! Trav got me going in three sets on tabatas. ",""
+"2018-08-12","14","Cycling","long","","02:42:03","","","","02:42:03","","","","325.0","3.0","","154","180","","","","","","","","","","","Biked out to Jerseysville road and back. ~60km",""
+"2018-08-13","10","Strength","warm up/down","","00:25:00","","00:25:00","","","","","","","1.0","","","","","","","","","","","","","","Workouts for my knees at physio.",""
+"2018-08-13","17","Trail Run","","","00:48:50","","","00:48:50","","","","7.2","90.0","2.0","","146","169","","","","","","","","","Inov F-LITE 195","","Easy run while practicing map reading. ",""
+"2018-08-15","19","Trail Run","intervals","","00:45:34","","","","","","00:45:34","8.5","90.0","5.0","","167","201","","","","","","","","","VJ IRock","","5 sets of 3 minutes full effort and 2 minutes rest. Warm up and down at the start and the end. ",""
+"2018-08-16","","Trail Run","","","01:12:39","","","","01:12:39","","","11.87","105.0","3.0","","161","185","","","","","","","","","VJ IRock","","Steady run with a few higher intensity kilometers.  ",""
+"2018-08-17","15","Cycling","hills","","02:08:08","","","","02:08:08","","","","360.0","3.0","","142","177","","","","","","","","","","","Biking hills through the Dundas valley",""
+"2018-08-17","22","Strength","warm up/down","","00:20:07","","00:20:07","","","","","","","1.0","","","","","","","","","","","","","","",""
+"2018-08-18","8","Trail Run","long","","01:45:03","","","","","01:45:03","","15.6","205.0","4.0","","161","187","","","","","","","","","VJ IRock","","Tough SMT in the humidity. Did 8x 6 minutes of tempo. ",""
+"2018-08-19","16","Strength","warm up/down","","00:31:33","","00:31:33","","","","","","","1.0","","96","119","","","","","","","","","","","",""
+"2018-08-20","11","Strength","warm up/down","","01:08:44","","01:08:44","","","","","","","1.0","","","","","","","","","","","","","","Physio work on my knee including many workouts to improve my knee strength. ",""
+"2018-08-21","19","Trail Run","warm up/down","","00:23:30","","00:23:30","","","","","4.1","45.0","1.0","","142","162","","","","","","","","","Inov F-LITE 195","","Was feel a better later in the day so went out for a very light run. ",""
+"2018-08-22","17","Trail Run","warm up/down","","00:11:59","","00:11:59","","","","","1.3","20.0","1.0","","132","142","","","","","","","","","Inov F-LITE 195","","Thought I was feeling better today but very quickly into the run I still felt poor so I cut it short. ",""
+"2018-08-23","16","Trail Run","","","01:08:21","","","","01:08:21","","","11.9","135.0","3.0","","155","176","","","","","","","","","VJ IRock","","Felt much better today. Still don't feel total recovered so took it pretty easy. As well I took a map along to practice map job. ",""
+"2018-08-23","22","Strength","warm up/down","","00:11:10","","00:11:10","","","","","","","1.0","","103","127","","","","","","","","","","","Core and back strength ",""
+"2018-08-24","13","Trail Run","tempo","","00:35:59","","","","","00:35:59","","7.78","85.0","4.0","","171","187","","","","","","","","","VJ IRock","","Tempo run up to the top of the escarpment and back. ",""
+"2018-08-24","14","Trail Run","warm up/down","","00:05:49","","","","00:05:49","","","0.9","15.0","3.0","","169","181","","","","","","","","","VJ IRock","","Cool down to tempo. ",""
+"2018-08-24","15","Cycling","","","00:40:00","","","00:40:00","","","","16.0","115.0","2.0","","125","160","","","","","","","","","","","",""
+"2018-08-25","8","Trail Run","long","","01:40:33","","","","","01:40:33","","15.5","225.0","4.0","","162","194","","","","","","","","","Inov F-LITE 195","","Really tough SMT with 25 times 2 minutes hard, 1 minute easy. ",""
+"2018-08-26","6","Cycling","long","","02:35:06","","","","02:35:06","","","","385.0","3.0","","149","174","","","","","","","","","","","Easy long bike ride. ",""
+"2018-08-27","11","Strength","warm up/down","","01:32:13","","01:32:13","","","","","","","1.0","","","","","","","","","","","","","","Final physio session",""
+"2018-08-27","16","Trail Run","","","00:18:43","","","","00:18:43","","","3.1","45.0","3.0","","149","169","","","","","","","","","Inov F-LITE 195","","Easy run with to figure out the distance around the Res field for tomorrow because I plan to run a 10 km as a test for cross country. ",""
+"2018-08-28","7","Trail Run","warm up/down","","00:23:08","","","00:23:08","","","","1.8","55.0","2.0","","147","169","","","","","","","","","VJ IRock","","Warm up to run",""
+"2018-08-28","8","Trail Run","race","","00:39:56","","","","","","00:39:56","10.0","10.0","5.0","","189","202","","","","","","","","","VJ IRock","","Pushed too hard in the beginning where I was on pace of a 35 min time but by about 6 km my pace had fallen to mid 4 minute kilometers",""
+"2018-08-28","9","Trail Run","warm up/down","","00:12:20","","","00:12:20","","","","1.77","","2.0","","","","","","","","","","","","","","",""
+"2018-08-30","17","Trail Run","long","","01:18:22","","","","01:18:22","","","14.2","175.0","3.0","","161","179","","","","","","","","","Inov F-LITE 195","","Ran out to Tiffany falls via bruce trail and back on the rail trail. ",""
+"2018-09-01","8","Trail Run","long","","01:32:27","","","","01:32:27","","","12.6","210.0","3.0","","148","181","","","","","","","","","Inov F-LITE 195","","Last SMT before leaving to university :( 
+",""
+"2018-09-02","21","Road Run","","","00:50:19","","","00:50:19","","","","11.7","25.0","2.0","","157","173","","","","","","","","","Inov F-LITE 195","","Moved into university so went for a late night run. ",""
+"2018-09-04","17","Road Run","warm up/down","","00:46:40","","","","00:46:40","","","6.0","20.0","3.0","","158","177","","","","","","","","","Inov F-LITE 195","","Warm up for uni xc",""
+"2018-09-04","17","Trail Run","tempo","","00:53:45","","","","","00:53:45","","10.6","105.0","4.0","","182","201","","","","","","","","","Inov F-LITE 195","","3x 500m pretty hard every 3 minutes followed by 10 minutes of tempo. Repeated 2 times and ended on one more set of 3x 500m.",""
+"2018-09-04","17","Trail Run","warm up/down","","00:14:17","","","00:14:17","","","","1.5","5.0","2.0","","161","201","","","","","","","","","Inov F-LITE 195","","",""
+"2018-09-05","17","Road Run","","","00:49:31","","","","","00:49:31","","10.3","50.0","4.0","","165","181","","","","","","","","","VJ IRock","","Steady training but cut it off a bit early because of pain in my left knee. ",""
+"2018-09-06","22","Strength","warm up/down","","00:10:00","","00:10:00","","","","","","","1.0","","","","","","","","","","","","","","Knee strength exercises. ",""
+"2018-09-08","9","Road Run","warm up/down","","00:54:22","","","","00:54:22","","","8.9","45.0","3.0","","153","173","","","","","","","","","Inov F-LITE 195","","Running from Res to Bechtel park. Over shot it a bit so was a bit late. ",""
+"2018-09-08","10","Trail Run","tempo","","00:47:03","","","","","00:47:03","","10.1","90.0","4.0","","172","191","","","","","","","","","Inov F-LITE 195","","4 loops taking 8:30 to 9:30 at tempo pace. 2:30 rest with a couple strides during rest. ",""
+"2018-09-08","11","Trail Run","warm up/down","","00:10:16","","","","00:10:16","","","1.8","20.0","3.0","","152","171","","","","","","","","","Inov F-LITE 195","","Cool down with the team. ",""
+"2018-09-08","12","Road Run","warm up/down","","00:33:08","","","","00:33:08","","","6.0","60.0","3.0","","154","170","","","","","","","","","Inov F-LITE 195","","Easy run back to Res.",""
+"2018-09-09","10","Road Run","long","","01:26:49","","","","01:26:49","","","18.3","140.0","3.0","","161","183","","","","","","","","","VJ IRock","","Long with the xc team. ",""
+"2018-09-10","","Road Run","","","01:20:00","","","","01:20:00","","","16.0","50.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","Watch broke after this run :(",""
+"2018-09-11","17","Trail Run","intervals","","01:05:00","","","","","","01:05:00","11.2","20.0","5.0","","","","","","","","","","","","Saucony Breakthru 4","","Class is very close to start of practice so missed practice. As such was quite slow as I was not warmed up before the intervals. Only on the last one was I decent.",""
+"2018-09-11","18","Trail Run","warm up/down","","00:10:00","","00:10:00","","","","","2.0","","1.0","","","","","","","","","","","","Saucony Breakthru 4","","",""
+"2018-09-12","17","Road Run","","","01:19:00","","","","01:19:00","","","17.0","50.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","Easy run on reg loop. ",""
+"2018-09-14","18","Road Run","tempo","","00:58:00","","","","","00:58:00","","13.5","50.0","4.0","","","","","","","","","","","","Saucony Breakthru 4","","",""
+"2018-09-15","9","Road Run","warm up/down","","00:30:00","","","","00:30:00","","","6.0","60.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","Running out to bechtel park. Although, no one was there.",""
+"2018-09-15","10","Trail Run","intervals","","00:25:00","","","","","00:25:00","","4.0","30.0","4.0","","","","","","","","","","","","Saucony Breakthru 4","","2 loops of 2 km at around 4:00 pace",""
+"2018-09-15","10","Road Run","warm up/down","","00:35:00","","","","00:35:00","","","6.0","45.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","Running back to waterloo. ",""
+"2018-09-16","10","Orienteering","race","","00:52:08","","","","","00:52:08","","6.6","40.0","4.0","","","","","","","","","","","","VJ IRock","","Wasn't really focused so didn't do very well, especially with using my compass. ",""
+"2018-09-16","13","Orienteering","race","","00:58:05","","","","","00:58:05","","8.3","60.0","4.0","","","","","","","","","","","","VJ IRock","","This race went better. Pre race set my goal to focus on using compass, although the area had lots of trails. ",""
+"2018-09-17","17","Road Run","","","01:10:00","","","","01:10:00","","","16.0","50.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","Easy run with 6 20 bursts",""
+"2018-09-17","21","Strength","warm up/down","","00:11:00","","00:11:00","","","","","","","1.0","","","","","","","","","","","","","","Knee Strength exercises:
+- roll
+- 3 min monster walk
+- clam leg raises ",""
+"2018-09-18","17","Trail Run","warm up/down","","00:07:00","","00:07:00","","","","","1.5","","1.0","","","","","","","","","","","","Saucony Breakthru 4","","Was able to make it to practice about half way into warm up. ",""
+"2018-09-18","17","Trail Run","intervals","","00:50:00","","","","","","00:50:00","10.0","20.0","5.0","","","","","","","","","","","","Saucony Breakthru 4","","5 x 2km at just above race pace with 5 minute rest",""
+"2018-09-18","18","Strength","warm up/down","","00:10:00","","","00:10:00","","","","1.0","","2.0","","","","","","","","","","","","Saucony Breakthru 4","","Strength circuit after intervals.  ",""
+"2018-09-18","18","Trail Run","warm up/down","","00:10:00","","","00:10:00","","","","1.8","","2.0","","","","","","","","","","","","Saucony Breakthru 4","","",""
+"2018-09-18","12","Strength","warm up/down","","00:10:00","","00:10:00","","","","","","","1.0","","","","","","","","","","","","","","",""
+"2018-09-19","17","Trail Run","","","01:20:00","","","","01:20:00","","","16.5","50.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","Steady run",""
+"2018-09-20","14","Road Run","warm up/down","","00:30:00","","","00:30:00","","","","4.0","","2.0","","","","","","","","","","","","Saucony Breakthru 4","","Warm up run + dynamic stretching ",""
+"2018-09-20","15","Trail Run","intervals","","00:50:00","","","","","00:50:00","","7.5","20.0","4.0","","","","","","","","","","","","Saucony Breakthru 4","","5 sets consisting of a 1 km loop, 60 sec rest, a 500 m loop and then 2 minutes rest between sets. ",""
+"2018-09-20","16","Road Run","warm up/down","","00:10:00","","","00:10:00","","","","2.0","","2.0","","","","","","","","","","","","Saucony Breakthru 4","","",""
+"2018-09-22","10","Road Run","","","01:05:00","","","","01:05:00","","","13.0","50.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","Was planning to go further but my legs were feeling quite tired so I decided to go a bit shorter to give them a bit of a rest. ",""
+"2018-09-23","11","Road Run","","","01:00:00","","","01:00:00","","","","10.0","","2.0","","","","","","","","","","","","Saucony Breakthru 4","","",""
+"2018-09-24","17","Road Run","","","01:20:00","","","","01:20:00","","","17.0","50.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","",""
+"2018-09-25","17","Trail Run","warm up/down","","00:25:00","","","","00:25:00","","","3.0","","3.0","","","","","","","","","","","","Saucony Breakthru 4","","",""
+"2018-09-25","17","Trail Run","tempo","","00:26:00","","","","","00:26:00","","6.0","20.0","4.0","","","","","","","","","","","","Saucony Breakthru 4","","Did two of three loops because I was feeling a bit sick and so was not proforming well so I decided rest rather than push ",""
+"2018-09-25","","Trail Run","warm up/down","","00:10:00","","00:10:00","","","","","2.0","","1.0","","","","","","","","","","","","Saucony Breakthru 4","","",""
+"2018-09-26","17","Road Run","","","01:10:00","","","","01:10:00","","","16.0","50.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","",""
+"2018-09-27","","Cycling","intervals","","00:55:00","","","","","00:55:00","","","","4.0","","","","","","","","","","","","Saucony Breakthru 4","","15 warm up, 3 sets of fartleks and 10 min cool down",""
+"2018-09-28","17","Trail Run","warm up/down","","00:15:00","","00:15:00","","","","","4.0","10.0","1.0","","","","","","","","","","","","Saucony Breakthru 4","","Warm up with strides",""
+"2018-09-29","11","Trail Run","race","","00:30:00","","","","","","00:30:00","8.0","15.0","5.0","","","","","","","","","","","","Saucony Breakthru 4","","First university race... didn't really push on the first 2 laps before picking it up on the last 4 km",""
+"2018-09-29","10","Trail Run","warm up/down","","00:35:00","","","00:35:00","","","","6.437","","2.0","","","","","","","","","","","","Saucony Breakthru 4","","warm up for race",""
+"2018-09-29","","Trail Run","warm up/down","","00:10:00","","","","00:10:00","","","2.0","","3.0","","","","","","","","","","","","Saucony Breakthru 4","","",""
+"2018-09-30","11","Trail Run","long","","02:00:00","","","","02:00:00","","","22.0","50.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","Chill long ",""
+"2018-10-03","","Road Run","","","01:15:00","","","","01:15:00","","","17.0","30.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","Felt a bit of a ting in behind my right knee before around 16 km where it kicked in a hurt more ",""
+"2018-10-06","14","Orienteering","","","00:48:26","","","","00:48:26","","","5.3","150.0","3.0","","162","191","","","","","","","","","VJ Sport Bold","","Pretty good first race for o champs. Only one mistake near the end where I mixed which control I was on so lost several minutes ",""
+"2018-10-06","12","Trail Run","warm up/down","","00:40:00","","","","00:40:00","","","3.0","30.0","3.0","","","","","","","","","","","","VJ Sport Bold","","Warm for race",""
+"2018-10-06","15","Trail Run","warm up/down","","00:10:00","","","00:10:00","","","","1.5","","2.0","","","","","","","","","","","","VJ IRock","","",""
+"2018-10-07","10","Orienteering","race","","01:41:21","","","","","01:41:21","","11.5","270.0","4.0","","166","188","","","","","","","","","VJ IRock","","First half of the course didn't go great as I messed up on control 2. For the rest of the first map I was sorta mad orienteering. On the run connecting from map 1 to map 2 I pushed hard to work out my anger. For the second map I was much more focused. ",""
+"2018-10-07","10","Trail Run","warm up/down","","00:30:00","","","","00:30:00","","","2.0","","3.0","","","","","","","","","","","","VJ IRock","","Warm up to race
+",""
+"2018-10-07","11","Trail Run","warm up/down","","00:10:00","","","00:10:00","","","","2.414","","2.0","","","","","","","","","","","","VJ Sport Bold","","",""
+"2018-10-08","10","Orienteering","race","","00:17:57","","","","","","00:17:57","4.2","35.0","5.0","","164","195","","","","","","","","","VJ Sport Bold","","Pretty good race. Only made one mistake and overall felt I pushed well. ",""
+"2018-10-08","10","Road Run","warm up/down","","00:35:00","","","00:35:00","","","","4.0","","2.0","","","","","","","","","","","","VJ Sport Bold","","Warm up for race",""
+"2018-10-08","13","Orienteering","race","","00:07:53","","","","","","00:07:53","2.0","10.0","5.0","","","","","","","","","","","","VJ Sport Bold","","First leg. Made a couple mistakes ",""
+"2018-10-08","13","Orienteering","race","","00:09:43","","","","","","00:09:43","2.5","10.0","5.0","","","","","","","","","","","","VJ Sport Bold","","Second course. Again made two mistakes but felt I pushed harder",""
+"2018-10-08","18","Trail Run","","","00:15:00","","","00:15:00","","","","2.2","","2.0","","","","","","","","","","","","Saucony Breakthru 4","","Cool down",""
+"2018-10-11","17","Road Run","","","00:15:00","","","","00:15:00","","","2.5","","3.0","","","","","","","","","","","","Saucony Breakthru 4","","Warm up to work out",""
+"2018-10-11","17","Trail Run","tempo","","00:34:53","","","","00:34:53","","","8.0","20.0","3.0","","169","183","","","","","","","","","Saucony Breakthru 4","","All at temp pace: 1*1km, 1*1.5km, 1*2.5km, 1*1.5km, 1*1km with 75 s rests",""
+"2018-10-12","17","Trail Run","","","00:31:39","","","","00:31:39","","","6.9","35.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","About 2 km I felt the pain behind my again so modified my route to much shorter. ",""
+"2018-10-12","18","Strength","warm up/down","","00:19:38","","00:19:38","","","","","","","1.0","","","","","","","","","","","","","","Stretching and leg strength work ",""
+"2018-10-13","10","Road Run","","","01:10:32","","","","01:10:32","","","10.6","40.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","Was planning to 3 times 3 km at tempo but after the first one my knee pain kicked in so I decided to just jog back",""
+"2018-10-13","11","Strength","warm up/down","","00:18:58","","00:18:58","","","","","","","1.0","","","","","","","","","","","","","","Stretching and knee strength ",""
+"2018-10-14","10","Road Run","long","","01:22:20","","","","01:22:20","","","17.4","135.0","3.0","","160","182","","","","","","","","","Saucony Breakthru 4","","Long w/ xc",""
+"2018-10-15","17","Road Run","","","00:43:30","","","","00:43:30","","","15.289","40.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","",""
+"2018-10-16","17","Trail Run","warm up/down","","00:20:51","","","00:20:51","","","","1.8","","2.0","","","","","","","","","","","","Saucony Breakthru 4","","Warm up to intervasls",""
+"2018-10-16","17","Trail Run","intervals","","00:36:34","","","","","","00:36:34","8.7","30.0","5.0","","","","","","","","","","","","Saucony Breakthru 4","","3 times 2.8 km loops, alternating race pace for 1 km and tempo for 400 m ",""
+"2018-10-16","17","Trail Run","warm up/down","","00:21:04","","00:21:04","","","","","3.1","5.0","1.0","","","","","","","","","","","","Saucony Breakthru 4","","",""
+"2018-10-16","18","Strength","warm up/down","","00:07:00","","00:07:00","","","","","","","1.0","","","","","","","","","","","","","","Rolling out and a bit of strength after run",""
+"2018-10-17","17","Road Run","","","01:15:53","","","","01:15:53","","","15.2","75.0","3.0","","150","164","","","","","","","","","Saucony Breakthru 4","","Easy run ",""
+"2018-10-17","18","Strength","warm up/down","","00:07:00","","00:07:00","","","","","","","1.0","","","","","","","","","","","","","","Rolling out and a bit of strength after run",""
+"2018-10-20","22","Road Run","","","00:48:44","","","","00:48:44","","","9.2","15.0","3.0","","157","181","","","","","","","","","Saucony Breakthru 4","","Late run to relax after my math midterm ",""
+"2018-10-21","10","Road Run","tempo","","01:16:18","","","","01:16:18","","","16.1","105.0","3.0","","161","185","","","","","","","","","Saucony Breakthru 4","","Faster but slightly shorter xc long run",""
+"2018-10-22","","Road Run","","","01:06:40","","","","01:06:40","","","14.6","100.0","3.0","","160","171","","","","","","","","","Saucony Breakthru 4","","Steady run with some tempo for the last few kilometres",""
+"2018-10-22","18","Strength","warm up/down","","00:07:00","","00:07:00","","","","","","","1.0","","","","","","","","","","","","","","Rolling out and a bit of strength after run",""
+"2018-10-23","17","Trail Run","warm up/down","","00:12:15","","","00:12:15","","","","1.2","","2.0","","","","","","","","","","","","Saucony Breakthru 4","","Warm up for intervals ",""
+"2018-10-23","","Trail Run","intervals","","00:21:33","","","","00:21:33","","","5.6","10.0","3.0","","168","186","","","","","","","","","Saucony Breakthru 4","","Started with 5 min tempo and 5 min easy pace. Then 2 sets of 3 min race pace, 2 min easy pace. Ended with 1.5 min above race pace",""
+"2018-10-23","17","Trail Run","warm up/down","","00:12:25","","00:12:25","","","","","1.2","","1.0","","","","","","","","","","","","Saucony Breakthru 4","","",""
+"2018-10-23","18","Strength","warm up/down","","00:07:00","","00:07:00","","","","","","","1.0","","","","","","","","","","","","","","Rolling out and a bit of strength after run",""
+"2018-10-24","17","Road Run","","","01:02:16","","","","01:02:16","","","12.6","60.0","3.0","","152","174","","","","","","","","","Saucony Breakthru 4","","Steady run with cross team",""
+"2018-10-27","18","Trail Run","warm up/down","","00:23:44","","","00:23:44","","","","4.3","40.0","2.0","","150","174","","","","","","","","","Saucony Breakthru 4","","Warm up with stretching",""
+"2018-10-27","18","Trail Run","intervals","","00:36:13","","","","","00:36:13","","7.6","40.0","4.0","","166","186","","","","","","","","","Saucony Breakthru 4","","Two sets of 3x 500m and 2.8 tempo with 40 seconds between reps and 2 minutes between sets. ",""
+"2018-10-27","18","Trail Run","warm up/down","","00:06:13","","","00:06:13","","","","1.0","20.0","2.0","","","","","","","","","","","","Saucony Breakthru 4","","Cool down after interval",""
+"2018-10-28","10","Road Run","long","","01:55:47","","","","01:55:47","","","22.6","185.0","3.0","","155","174","","","","","","","","","Saucony Breakthru 4","","Solo long run",""
+"2018-10-29","17","Road Run","","","00:36:56","","","","00:36:56","","","7.8","35.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","Quick run before midterm ",""
+"2018-10-30","17","Road Run","warm up/down","","00:08:12","","","00:08:12","","","","0.8","","2.0","","","","","","","","","","","","Saucony Breakthru 4","","Quick warm up",""
+"2018-10-30","17","Trail Run","intervals","","00:51:27","","","","","00:51:27","","11.4","","4.0","","","","","","","","","","","","Saucony Breakthru 4","","First did 6.2 loop with increasing pace. Then after a rest 4.2 loop, starting at a faster pace and increasing. Ended with 5 hill reps",""
+"2018-10-30","17","Road Run","warm up/down","","00:05:00","","","","00:05:00","","","0.7","","3.0","","","","","","","","","","","","Saucony Breakthru 4","","easy cool down",""
+"2018-10-31","17","Road Run","","","01:22:43","","","","01:22:43","","","17.2","100.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","Steady run ",""
+"2018-11-01","20","Trail Run","warm up/down","","00:25:00","","","","00:25:00","","","4.7","10.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","Warm up for interval ",""
+"2018-11-01","20","Trail Run","intervals","","00:38:08","","","","","00:38:08","","8.25","20.0","4.0","","","","","","","","","","","","Saucony Breakthru 4","","8 times 1 km intervals",""
+"2018-11-01","20","Trail Run","warm up/down","","00:05:09","","","00:05:09","","","","0.8","10.0","2.0","","","","","","","","","","","","Saucony Breakthru 4","","Quick cool down",""
+"2018-11-02","17","Road Run","","","00:56:55","","","","00:56:55","","","10.3","50.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","Very easy run",""
+"2018-11-04","12","Road Run","long","","01:34:13","","","","01:34:13","","","18.5","140.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","Long run on wilmot line route",""
+"2018-11-05","17","Road Run","","","01:05:10","","","","01:05:10","","","13.2","60.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","was planning to go a bit further but had a little knee pain do cut it short",""
+"2018-11-06","17","Road Run","warm up/down","","00:44:55","","","","00:44:55","","","","","3.0","","","","","","","","","","","","Saucony Breakthru 4","","Was going to do interval workout with xc team but knee pain kicked in again. decided to take it easy for the rest of the week before the raid ",""
+"2018-11-09","22","Unspecified","","","00:45:00","","00:45:00","","","","","","","1.0","","","","","","","","","","","","","","Tried pool running for the first time. ",""
+"2018-11-11","10","Orienteering","race","","03:15:00","","","","","03:15:00","","26.2","515.0","4.0","","","","","","","","","","","","VJ IRock","","Quite an enjoyable raid. ",""
+"2018-11-13","17","Road Run","","","00:50:43","","","","00:50:43","","","9.8","55.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","",""
+"2018-11-15","21","Road Run","","","01:27:58","","","","01:27:58","","","15.9","","3.0","","","","","","","","","","","","VJ IRock","","Longer run in the snow storm ",""
+"2018-11-16","23","Trail Run","","","00:32:31","","","00:32:31","","","","5.7","50.0","2.0","","","","","","","","","","","","VJ IRock","","Easy shorter run",""
+"2018-11-17","","Trail Run","","","00:16:13","","","","00:16:13","","","2.0","","3.0","","","","","","","","","","","","","","",""
+"2018-11-17","","Orienteering","race","","00:52:58","","","","","00:52:58","","7.6","","4.0","","","","","","","","","","","","","","",""
+"2018-11-17","","Road Run","warm up/down","","00:36:12","","00:36:12","","","","","3.6","","1.0","","","","","","","","","","","","","","",""
+"2018-11-17","","Orienteering","","","00:50:42","","","","00:50:42","","","8.0","","3.0","","","","","","","","","","","","","","",""
+"2018-11-18","","Road Run","long","","01:47:24","","","","01:47:24","","","21.2","","3.0","","","","","","","","","","","","","","",""
+"2018-11-19","","Road Run","","","00:51:29","","00:51:29","","","","","10.6","","1.0","","","","","","","","","","","","","","",""
+"2018-11-21","","Road Run","","","00:26:12","","","","00:26:12","","","5.5","","3.0","","","","","","","","","","","","","","",""
+"2018-11-24","","Road Run","","","01:00:58","","","","01:00:58","","","13.0","","3.0","","","","","","","","","","","","","","",""
+"2018-11-26","","Road Run","","","01:03:29","","","","01:03:29","","","12.3","55.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","",""
+"2018-11-27","","Road Run","","","00:51:26","","","","00:51:26","","","9.9","55.0","3.0","","","","","","","","","","","","","","",""
+"2018-11-28","","Road Run","","","00:51:52","","","","00:51:52","","","10.8","55.0","3.0","","","","","","","","","","","","","","",""
+"2018-12-03","","Road Run","","","01:16:59","","","","01:16:59","","","15.7","55.0","3.0","","","","","","","","","","","","","","",""
+"2018-12-04","","Road Run","","","00:43:25","","","","00:43:25","","","9.1","65.0","3.0","","","","","","","","","","","","","","",""
+"2018-12-08","","Strength","","","00:35:00","","","","00:35:00","","","","","3.0","","","","","","","","","","","","","","University strength testing ",""
+"2018-12-10","","Road Run","","","01:17:13","","","","01:17:13","","","14.5","55.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","",""
+"2018-12-11","","Road Run","","","01:38:12","","","","01:38:12","","","18.6","150.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","",""
+"2018-12-12","","Road Run","","","01:01:26","","","","01:01:26","","","10.2","","3.0","","","","","","","","","","","","VJ IRock","","",""
+"2018-12-14","","Road Run","","","00:32:46","","","","00:32:46","","","5.7","15.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","",""
+"2018-12-16","","Road Run","","","00:50:00","","","","00:50:00","","","9.3","115.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","",""
+"2018-12-17","","Note","","","","","","","","","","","","","","","","","","","","","","","","","","My training and logging over the past couple weeks have been lax with the ramp up school with exams. Although now I'm on winter break so I can train a bunch over the next three weeks. ",""
+"2018-12-18","17","Road Run","tempo","","01:06:05","","","","01:06:05","","","13.0","","3.0","","","","","","","","","","","","Saucony Breakthru 4","","Bit of a change in route to avoid a pack of coyotes ",""
+"2018-12-19","19","Trail Run","","","00:21:31","","","","00:21:31","","","2.7","","3.0","","","","","","","","","","","","VJ IRock","","Warm up to intervals ",""
+"2018-12-19","19","Trail Run","hills","","00:43:29","","","","","00:43:29","","7.3","125.0","4.0","","","","","","","","","","","","VJ IRock","","5 reps of the hills on chedoke golf course ",""
+"2018-12-19","19","Trail Run","warm up/down","","00:12:28","","","00:12:28","","","","1.5","","2.0","","","","","","","","","","","","VJ IRock","","",""
+"2018-12-22","11","Trail Run","warm up/down","","00:07:46","","00:07:46","","","","","1.0","10.0","1.0","","","","","","","","","","","","VJ IRock","","Warm up",""
+"2018-12-22","11","Orienteering","","","01:23:51","","","","01:23:51","","","6.7","70.0","3.0","","","","","","","","","","","","VJ IRock","","Orienteering training with DD. Focused on compass use and the large contour shapes ",""
+"2018-12-23","9","Trail Run","warm up/down","","00:19:30","","","00:19:30","","","","2.1","15.0","2.0","","","","","","","","","","","","VJ IRock","","Warm up to orienteering ",""
+"2018-12-23","9","Orienteering","","","00:58:20","","","","","00:58:20","","6.8","150.0","4.0","","164","187","","","","","","","","","VJ IRock","","Test course behind Morghan Firestone. Went pretty well, with only a couple small mistakes. ",""
+"2018-12-27","16","Trail Run","","","01:05:58","","","","01:05:58","","","12.0","100.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","Easy run to the highway and back ",""
+"2018-12-28","15","Trail Run","warm up/down","","00:17:14","","","","00:17:14","","","2.7","20.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","Warm up to intervals. ",""
+"2018-12-28","15","Trail Run","intervals","","00:44:10","","","","","00:44:10","","8.1","135.0","4.0","","163","192","","","","","","","","","Saucony Breakthru 4","","1 km loop with hill, repeated 6 times and 1:15 rest. After these did a few short high intensity loops. ",""
+"2018-12-28","15","Trail Run","warm up/down","","00:12:24","","","","00:12:24","","","2.4","35.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","",""
+"2018-12-30","","Trail Run","","","02:04:59","","","","02:04:59","","","22.0","270.0","3.0","","","","","","","","","","","","VJ IRock","","Run out to the Dundas Vally and back.",""
+"2018-12-31","16","Road Run","","","00:39:08","","","","00:39:08","","","8.1","80.0","3.0","","","","","","","","","","","","Saucony Breakthru 4","","Easy run out to the bay front and back",""
